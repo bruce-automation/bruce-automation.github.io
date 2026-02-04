@@ -6,42 +6,58 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 [Version française →](/)
 
 <style>
-  .hero { margin-top: 10px; }
-  .sub { font-size: 1.05rem; opacity: .9; }
-  .cta-row { display:flex; gap:12px; flex-wrap:wrap; margin:14px 0 6px 0; }
-  .cta-btn { display:inline-block; background:#0ea5e9; color:#fff; padding:14px 20px; border-radius:12px; text-decoration:none; font-weight:900; }
-  .cta-note { font-size:.92rem; opacity:.85; margin:0 0 12px 0; }
-  .pill { display:inline-block; padding:4px 10px; border-radius:999px; background:#f3f4f6; }
-  .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:14px; }
-  .card { border:1px solid #e5e7eb; border-radius:14px; padding:14px 14px 10px 14px; background:#fff; }
-  .card h3 { margin-top:0; }
+  :root { --c:#0ea5e9; --bd:#e5e7eb; }
+  .hero { margin-top: 8px; }
+  .sub { font-size: 1.06rem; opacity: .9; margin-top: 8px; }
+  .cta-row { display:flex; gap:12px; flex-wrap:wrap; margin:16px 0 8px 0; }
+  .btn { display:inline-block; background:var(--c); color:#fff; padding:14px 20px; border-radius:12px; text-decoration:none; font-weight:900; }
+  .btn:visited { color:#fff; }
+  .note { font-size:.92rem; opacity:.82; margin:0; }
+  .pills { margin:10px 0 0 0; }
+  .pill { display:inline-block; padding:4px 10px; border-radius:999px; background:#f3f4f6; margin:0 8px 8px 0; font-size:.9rem; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:14px; }
+  .card { border:1px solid var(--bd); border-radius:14px; padding:14px; background:#fff; }
+  .card h3 { margin:0 0 8px 0; }
+  .card ul { margin: 8px 0 0 18px; }
+  .kpi { display:flex; gap:12px; flex-wrap:wrap; margin: 14px 0 6px 0; }
+  .kpi .card { flex: 1 1 220px; }
+  .muted { opacity:.85; }
+  .hr { height:1px; background:var(--bd); margin: 18px 0; }
 </style>
 
 <div class="hero">
 
-# A real **AI operator system** (not a chatbot) — delivered in 60 minutes
+# A real **AI operator system** — local Mac mini or VPS
 
-<p class="sub">Done‑for‑you setup on a <b>local Mac mini</b> or an isolated <b>VPS</b>: ChatGPT‑like UI, durable memory, automations, integrations, guardrails, logs, and handover docs.</p>
+<p class="sub">Done‑for‑you setup: ChatGPT‑like UI, durable memory, automations, integrations, guardrails, logs, and handover docs.</p>
 
 <div class="cta-row">
-  <a class="cta-btn" href="https://t.me/BruceWaaynee?text=Hi%2C%20I%20want%20an%20AI%20assistant%20system.%20Context%3A%20%5B%5D%20%7C%20Goal%3A%20%5B%5D%20%7C%20Local%20or%20VPS%3A%20%5B%5D">Start on Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Hi%2C%20I%20want%20an%20AI%20assistant%20system%20%28local%20or%20VPS%29.%20Tools%3A%20%5B%5D%20%7C%20Goal%3A%20%5B%5D">Start on Telegram</a>
 </div>
-<p class="cta-note">Just share: tools (e.g., Gmail/Shopify/Notion) + one goal (e.g., save 5h/week on triage & follow‑ups).</p>
+<p class="note">Share: tools (e.g., Gmail/Shopify/Notion) + one clear goal.</p>
 
-<p><span class="pill">Local‑first</span> <span class="pill">Human‑in‑the‑loop</span> <span class="pill">Handover + docs</span></p>
+<div class="pills">
+  <span class="pill">Local‑first (optional)</span>
+  <span class="pill">Approval gates (optional)</span>
+  <span class="pill">Handover + docs</span>
+</div>
 
 </div>
 
----
+<div class="hr"></div>
 
 ## Outcomes
-- Save **5–10 hours/week** on coordination, triage, follow‑ups, writing
-- A clear system: **intake → priorities → execution → reporting**
-- Control: approval gates for sensitive actions (send/publish/ops)
 
----
+<div class="kpi">
+  <div class="card"><b>Time saved</b><br><span class="muted">Less triage, follow‑ups, summaries, reporting.</span></div>
+  <div class="card"><b>Reliability</b><br><span class="muted">Testable system, logs, guardrails, optional maintenance.</span></div>
+  <div class="card"><b>Control</b><br><span class="muted">Approval mode: AI drafts, human approves.</span></div>
+</div>
+
+<div class="hr"></div>
 
 ## Who it’s for
+
 <div class="grid">
   <div class="card">
     <h3>Solopreneurs / creators</h3>
@@ -54,7 +70,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
   <div class="card">
     <h3>Freelancers / agencies</h3>
     <ul>
-      <li>client briefs + proposals + docs</li>
+      <li>briefs + proposals + docs</li>
       <li>meeting notes → tasks → follow‑ups</li>
       <li>support triage + draft replies</li>
     </ul>
@@ -63,9 +79,9 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
     <h3>E‑commerce</h3>
     <ul>
       <li>support: returns, shipping, refunds (triage + drafts)</li>
-      <li>product pages & SEO: titles, bullets, descriptions, variants</li>
+      <li>product pages & SEO: titles, bullets, descriptions</li>
       <li>marketing: ad angles, UGC scripts, cart‑abandon emails</li>
-      <li>daily reporting: orders/margin/stock issues → action list</li>
+      <li>daily reporting: orders/margin/stock → action list</li>
     </ul>
   </div>
   <div class="card">
@@ -78,53 +94,100 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
   </div>
 </div>
 
----
+<div class="hr"></div>
 
-## What’s installed
-- ChatGPT‑like **web UI** + API access
-- **Durable memory** (Markdown, auditable)
-- **Automations** (daily brief / recap / reminders)
-- **Workflows** (start with 2, scale to 4–8 on full setup)
+## What’s delivered
 
-### Hosting
-- **Local (Mac mini)**: maximum privacy, often near‑zero API costs
-- **VPS**: accessible anywhere, stable, scalable
-- **Hybrid**: local for sensitive + VPS for everything else
+<div class="grid">
+  <div class="card">
+    <h3>Foundations</h3>
+    <ul>
+      <li>web UI + API</li>
+      <li>durable memory (Markdown)</li>
+      <li>automations (brief / recap / reminders)</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Workflows</h3>
+    <ul>
+      <li>2 high‑ROI workflows (Sprint)</li>
+      <li>4–8 workflows (Full setup)</li>
+      <li>guardrails & permissions</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Hosting</h3>
+    <ul>
+      <li>local Mac mini — privacy</li>
+      <li>VPS — access anywhere</li>
+      <li>hybrid — split sensitive vs non‑sensitive</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Handover</h3>
+    <ul>
+      <li>documentation + diagram</li>
+      <li>take‑over checklist</li>
+      <li>short training</li>
+    </ul>
+  </div>
+</div>
 
----
+<div class="hr"></div>
 
-## Reliability & security
-- approval gates (optional)
-- minimal permissions
-- logs + documentation (you own it)
+## Why this (vs DIY / VA / agency)
 
----
+<div class="grid">
+  <div class="card"><h3>DIY</h3><div class="muted">Tool sprawl + constant tweaking + unclear outcomes.</div></div>
+  <div class="card"><h3>Hiring / VA</h3><div class="muted">Training + oversight + dependency + inconsistent output.</div></div>
+  <div class="card"><h3>Agency</h3><div class="muted">Slower, heavier, less execution‑focused.</div></div>
+  <div class="card"><h3>Here</h3><div class="muted">Concrete system, guardrails, docs, optional care plan.</div></div>
+</div>
+
+<div class="hr"></div>
 
 ## Offers
-### 7‑day Sprint — **from €299**
-- 2 high‑ROI workflows
-- baseline automations + logs
-- handover docs + checklist
 
-### Full setup — **from €799**
-- 4–8 workflows + optimization
-- integrations + guardrails
-- memory structure + templates
+<div class="grid">
+  <div class="card">
+    <h3>7‑day Sprint</h3>
+    <div class="muted">From <b>€299</b></div>
+    <ul>
+      <li>2 high‑ROI workflows</li>
+      <li>baseline automations + logs</li>
+      <li>handover docs + checklist</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Full setup</h3>
+    <div class="muted">From <b>€799</b></div>
+    <ul>
+      <li>4–8 workflows + optimization</li>
+      <li>integrations + guardrails</li>
+      <li>memory templates + structure</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Care plan (optional)</h3>
+    <div class="muted">From <b>€149/mo</b></div>
+    <ul>
+      <li>maintenance + improvements</li>
+      <li>monitoring + support</li>
+    </ul>
+  </div>
+</div>
 
-### Care plan (optional) — **from €149/mo**
-- maintenance + improvements + monitoring
-
----
+<div class="hr"></div>
 
 ## FAQ
-**Reliable?** Simple, testable, documented system. Care plan available.
+**Reliable?** Simple, testable, documented system. Optional maintenance.
 
-**Control?** Approval mode: AI drafts, human approves.
+**Privacy?** Local‑first option, minimal permissions, access separation.
 
-**No time to brief?** Workflow extraction from your current tools (30–45 min).
+**Control?** Approval gates.
 
----
+<div class="hr"></div>
 
 <div class="cta-row">
-  <a class="cta-btn" href="https://t.me/BruceWaaynee?text=Hi%2C%20I%20want%20an%20AI%20assistant%20system.%20Tools%3A%20%5B%5D%20%7C%20Goal%3A%20%5B%5D%20%7C%20Local%2FVPS%3A%20%5B%5D">Start on Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Hi%2C%20I%20want%20an%20AI%20assistant%20system.%20Tools%3A%20%5B%5D%20%7C%20Goal%3A%20%5B%5D">Start on Telegram</a>
 </div>
