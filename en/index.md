@@ -13,6 +13,12 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 - **Local (Mac mini)** → maximum privacy, near‑zero API costs
 - **VPS** → accessible anywhere, stable, easy to scale
 
+
+**→ Start now:**
+- [GO + Mac (Telegram)](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20)
+- [GO + VPS (Telegram)](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
+
+
 ---
 
 ## What you get (practical)
@@ -48,6 +54,10 @@ We set up a simple, useful baseline (no overengineering):
 ### Starter — **€149**
 - Full setup (Mac mini **or** VPS)
 - **1 workflow**
+
+
+
+**→ Book now:** [GO + Mac](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20) · [GO + VPS](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
 
 ### Pro — **€299** (recommended)
 - Full setup + optimization (performance + reliability)

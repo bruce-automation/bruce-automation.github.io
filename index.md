@@ -13,6 +13,12 @@ title: "Assistant IA — installation clé en main"
 - **Local (Mac mini)** → confidentialité maximale, coûts API ≈ 0
 - **VPS** → accessible partout, stable, facile à scaler
 
+
+**→ Démarrer maintenant :**
+- [GO + Mac (Telegram)](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20)
+- [GO + VPS (Telegram)](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
+
+
 ---
 
 ## Ce que tu obtiens (concret)
@@ -48,6 +54,10 @@ On met en place une base “utile” (sans usine à gaz) :
 ### Starter — **149€**
 - Setup complet (Mac mini **ou** VPS)
 - **1 workflow**
+
+
+
+**→ Réserver maintenant :** [GO + Mac](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20) · [GO + VPS](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
 
 ### Pro — **299€** (recommandé)
 - Setup complet + optimisation (perf + fiabilité)
