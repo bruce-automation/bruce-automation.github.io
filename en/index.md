@@ -32,7 +32,14 @@ Daily brief, writing, research → actions.
 ### 2) Freelancers / agencies
 Client briefs, meeting → tasks → follow‑ups, support drafts.
 
-### 3) Tech teams
+### 3) E‑commerce (Shopify / WooCommerce / Amazon)
+More sales, less support, faster decisions.
+- customer support triage + draft replies (returns, shipping, refunds)
+- product pages & SEO (titles, bullets, descriptions, A/B variants)
+- ads & content angles, hooks, UGC scripts, cart‑abandon emails
+- daily report: orders/margin/stock issues + action list
+
+### 4) Tech teams
 Runbooks, scripts, PR support, incident summaries, weekly rituals.
 
 ---

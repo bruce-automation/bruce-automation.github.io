@@ -24,7 +24,7 @@ Je t’installe un **système d’assistant IA opérationnel H24** (sur **Mac mi
 
 ---
 
-## Pour qui (3 profils, même système)
+## Pour qui (4 profils, même système)
 
 ### 1) Solopreneurs / créateurs
 Tu veux : publier plus vite, décider plus vite, garder le focus.
@@ -38,8 +38,15 @@ Tu veux : livrer mieux sans t’épuiser, standardiser, réduire les oublis.
 - compte‑rendus de call → tâches → relances
 - support “draft” + tri + priorisation
 
-### 3) Équipes tech
-Tu veux : moins d’allers‑retours, plus d’ops, moins de bruit.
+### 3) E‑commerce (Shopify / WooCommerce / Amazon)
+Tu veux : plus de ventes, moins de support, et des décisions plus rapides.
+- support client : tri + réponses draft (retours, livraison, SAV)
+- fiches produit & SEO : titres, bullets, descriptions, A/B variants
+- ads & contenu : angles, hooks, scripts UGC, emails (abandon panier)
+- reporting : résumé quotidien commandes/marges/ruptures + points d’action
+
+### 4) Équipes tech
+Tu veux : moins d’allers‑retours, plus d’Ops, moins de bruit.
 - runbooks, scripts, PR reviews, résumés d’incidents
 - GitHub/Docs → synthèses + tâches
 - rituels (daily/weekly) automatisés
