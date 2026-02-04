@@ -47,9 +47,9 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/BruceWaaynee?text=Hi%2C%20I%20want%20an%20AI%20assistant%20system%20%28local%20or%20VPS%29.%20Tools%3A%20%5B%5D%20%7C%20Goal%3A%20%5B%5D">Start</a>
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B7-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start</a>
       </div>
-      <p class="mini">Suggested message: “Tools: … | Goal: …”</p>
+      <p class="mini">Message: “Package: 7‑day Sprint / Full setup | Tools: … | Goal: … | Local/VPS: …”</p>
     </div>
   </div>
 
@@ -128,12 +128,14 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 
 <div class="grid">
   <div class="card">
-    <h3>7‑day Sprint</h3>
-    <div class="mut">From <b>€299</b></div>
+    <h3><b>7‑day</b> Sprint</h3>
+    <div class="mut"><b>Delivered in 7 days</b> — from <b>€299</b></div>
     <ul>
-      <li>2 high‑ROI workflows</li>
-      <li>automations + logs</li>
-      <li>handover docs + checklist</li>
+      <li><b>Day 1</b> scope (goal + tools + access)</li>
+      <li><b>Days 2–5</b> build + integrations + guardrails</li>
+      <li><b>Day 6</b> real‑case testing + tweaks</li>
+      <li><b>Day 7</b> handover (docs + checklist + short training)</li>
+      <li><b>Includes:</b> 2 high‑ROI workflows + automations + logs</li>
     </ul>
   </div>
   <div class="card">
@@ -167,7 +169,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Hi%2C%20I%20want%20an%20AI%20assistant%20system.%20Tools%3A%20%5B%5D%20%7C%20Goal%3A%20%5B%5D">Start on Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B7-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a>
 </div>
 
 </div>

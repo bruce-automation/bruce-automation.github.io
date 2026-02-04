@@ -49,9 +49,9 @@ title: "Assistant IA — installation clé en main"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20souhaite%20un%20assistant%20IA%20%28Mac%20mini%20ou%20VPS%29.%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D">Démarrer</a>
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a>
       </div>
-      <p class="mini">Message recommandé : « Outils : … | Objectif : … »</p>
+      <p class="mini">Message : « Formule : Sprint 7 jours / Setup complet | Outils : … | Objectif : … | Local/VPS : … »</p>
     </div>
   </div>
 
@@ -130,12 +130,14 @@ title: "Assistant IA — installation clé en main"
 
 <div class="grid">
   <div class="card">
-    <h3>Sprint 7 jours</h3>
-    <div class="mut">À partir de <b>299€</b></div>
+    <h3>Sprint <b>7 jours</b></h3>
+    <div class="mut"><b>Livré en 7 jours</b> — à partir de <b>299€</b></div>
     <ul>
-      <li>2 workflows à fort ROI</li>
-      <li>automatisations + logs</li>
-      <li>handover (doc + checklist)</li>
+      <li><b>J1</b> cadrage (objectif + outils + accès)</li>
+      <li><b>J2–J5</b> build + intégrations + garde‑fous</li>
+      <li><b>J6</b> tests sur cas réels + ajustements</li>
+      <li><b>J7</b> handover (docs + checklist + formation courte)</li>
+      <li><b>Inclus :</b> 2 workflows à fort ROI + automatisations + logs</li>
     </ul>
   </div>
   <div class="card">
@@ -169,7 +171,7 @@ title: "Assistant IA — installation clé en main"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20souhaite%20un%20assistant%20IA.%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D">Démarrer sur Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
 </div>
 
 </div>
