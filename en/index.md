@@ -5,108 +5,79 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 
 [Version française →](/)
 
-# Your AI assistant (local Mac mini or VPS) in 60 minutes — built to work, not to demo
+# A real AI assistant that **moves work forward** (not a chatbot) — delivered in 60 minutes
 
-**Goal:** deliver a **24/7 AI assistant** with a ChatGPT‑like web UI, durable memory, and automations that save you time **from day one**.
-
-**Two options:**
-- **Local (Mac mini)** → maximum privacy, near‑zero API costs
-- **VPS** → accessible anywhere, stable, easy to scale
-
-
-**→ Start now:**
+Tired of **triage, follow‑ups, summaries, copy‑paste**?
+I deploy a **done‑for‑you AI operator system** (local **Mac mini** or isolated **VPS**) connected to your tools with **approval gates**, **logs**, and **handover docs**.
 
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:700">GO + Mac (Telegram)</a>
-  <a href="https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:700">GO + VPS (Telegram)</a>
-  <a href="https://t.me/BruceWaaynee" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:700">Quick question</a>
+  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20Mac%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Timezone%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + Mac (Telegram)</a>
+  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20VPS%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Timezone%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + VPS (Telegram)</a>
+  <a href="https://t.me/BruceWaaynee?text=Quick%20question%20%3A%20" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Quick question</a>
 </div>
-
-<small>Fast track: send <b>GO + Mac</b> or <b>GO + VPS</b> + your timezone.</small>
-
----
-
-## What you get (practical)
-
-### 1) A usable assistant immediately
-- **Web chat UI** (ChatGPT‑like) + API access
-- **Models** tuned for your use (speed / quality / coding)
-- **Durable memory** (Markdown, auditable, long‑lasting)
-
-### 2) Automations that actually help
-We set up a simple, useful baseline (no overengineering):
-- **Daily brief** (priorities + key info)
-- **End‑of‑day recap** (done / follow‑ups)
-- **Reminders** (your cadence, your wording)
-
-### 3) Pick 2 workflows (examples)
-- PDFs / links → **summary + actions** (checklist, decision, next steps)
-- Writing → emails, posts, proposals **ready to send**
-- Monitoring → daily shortlist + alerts
-- Dev helper → scripts, PR review, runbooks
+<small><b>Fast track:</b> send <b>ASSISTANT</b> + your top 3 tools + 1 goal. I’ll reply with a plan + estimate.</small>
 
 ---
 
-## Best for
-- **Solopreneurs / creators**: content, research, organization
-- **Freelancers / agencies**: briefs, docs, support, replies
-- **Tech teams**: GitHub, runbooks, ops
+## Typical outcomes
+- Save **5–10 hours/week** on coordination (volume‑dependent)
+- A clear system: intake → priorities → execution → reporting
+- Full control: the assistant drafts & proposes, and **only executes with approval** (if you want)
 
 ---
 
-## Pricing
+## Who it’s for
 
-### Starter — **€149**
-- Full setup (Mac mini **or** VPS)
-- **1 workflow**
+### 1) Solopreneurs / creators
+Daily brief, writing, research → actions.
 
+### 2) Freelancers / agencies
+Client briefs, meeting → tasks → follow‑ups, support drafts.
 
-
-**→ Book now:** [GO + Mac](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20) · [GO + VPS](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
-
-### Pro — **€299** (recommended)
-- Full setup + optimization (performance + reliability)
-- **2 workflows**
-- **7‑day support** (tweaks)
-
-### Elite — **€499**
-- Full setup + **document RAG** + advanced hardening
-- **3 workflows**
-- **30‑day support**
+### 3) Tech teams
+Runbooks, scripts, PR support, incident summaries, weekly rituals.
 
 ---
 
-## The 60‑minute flow
-1) **10 min**: goals + constraints (local/VPS)
-2) **30 min**: install + models + UI
-3) **15 min**: workflows + automations
-4) **5 min**: final check + short “how to use” doc
+## What I install
+- ChatGPT‑like **web UI** + API
+- **Durable memory** (Markdown)
+- Useful automations (daily brief / EOD recap / reminders)
+- **2 workflows** to start (upgrade to 4–8 on full setup)
+
+### Hosting options
+- **Local (Mac mini)**: maximum privacy, often near‑zero API costs
+- **VPS**: accessible anywhere, stable, scalable
+- **Hybrid**: local for sensitive + VPS for everything else
 
 ---
 
-## Security & privacy
-- **Local**: your data stays on your machine
-- **VPS**: baseline hardening (restricted access, minimal exposure)
-- **Never acts on your behalf without approval** (messages / posts)
+## Reliability & security
+- Approval gates for sensitive actions
+- Minimal permissions
+- Logs + documentation (you own it)
 
 ---
 
-## Guarantee
-If it’s not stable and usable by the end of the session: **I keep going until it is**.
+## Offers
+
+### 7‑day Sprint — **from €299**
+- 2 high‑ROI workflows
+- baseline automations + logs
+- handover docs
+
+### Full setup — **from €799**
+- 4–8 workflows + optimization
+- integrations + guardrails
+- memory structure + templates
+
+### Care plan (optional) — **from €149/mo**
+- maintenance + improvements + monitoring
 
 ---
 
 ## CTA
-Copy/paste:
-- **GO + Mac** + your timezone
-or
-- **GO + VPS** + your timezone
-
-### Message me on Telegram
-- **GO + Mac**: [t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20)
-- **GO + VPS**: [t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
-- **Quick question**: [t.me/BruceWaaynee](https://t.me/BruceWaaynee)
-
-
-
-I’ll reply with **two available time slots**.
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
+  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Local%20or%20VPS%20%3A%20%7C%20Timezone%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Start on Telegram</a>
+</div>
+<small>Send: <b>ASSISTANT</b> | Tools: … | Goal: … | Local/VPS: … | Timezone: …</small>
