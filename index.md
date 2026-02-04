@@ -6,125 +6,94 @@ title: "Assistant IA — installation clé en main"
 [English version →](/en/)
 
 <style>
-  :root { --c:#0ea5e9; --b:#111827; --g:#22c55e; --bd:#e5e7eb; }
-  .hero { margin-top: 8px; }
-  .sub { font-size: 1.06rem; opacity: .9; margin-top: 8px; }
-  .cta-row { display:flex; gap:12px; flex-wrap:wrap; margin:16px 0 8px 0; }
-  .btn { display:inline-block; background:var(--c); color:#fff; padding:14px 20px; border-radius:12px; text-decoration:none; font-weight:900; }
-  .btn:visited { color:#fff; }
-  .note { font-size:.92rem; opacity:.82; margin:0; }
-  .pills { margin:10px 0 0 0; }
-  .pill { display:inline-block; padding:4px 10px; border-radius:999px; background:#f3f4f6; margin:0 8px 8px 0; font-size:.9rem; }
-  .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:14px; }
-  .card { border:1px solid var(--bd); border-radius:14px; padding:14px; background:#fff; }
-  .card h3 { margin:0 0 8px 0; }
-  .card ul { margin: 8px 0 0 18px; }
-  .kpi { display:flex; gap:12px; flex-wrap:wrap; margin: 14px 0 6px 0; }
-  .kpi .card { flex: 1 1 220px; }
-  .muted { opacity:.85; }
-  .hr { height:1px; background:var(--bd); margin: 18px 0; }
+  :root{--c:#0ea5e9;--bd:#e5e7eb;--tx:#0b1220;--mut:#475569;--bg:#ffffff;--bg2:#f8fafc;}
+  .wrap{color:var(--tx)}
+  .hero{padding:18px 18px 14px;border:1px solid var(--bd);border-radius:18px;background:linear-gradient(180deg,var(--bg),var(--bg2));}
+  .h1{margin:0 0 10px 0;letter-spacing:-.02em}
+  .sub{margin:0 0 14px 0;color:var(--mut);font-size:1.02rem;line-height:1.55}
+  .bul{margin:0 0 10px 18px;color:var(--tx)}
+  .ctaRow{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0 2px 0;align-items:center}
+  .btn{display:inline-block;background:var(--c);color:#fff;padding:14px 20px;border-radius:12px;text-decoration:none;font-weight:900}
+  .btn:visited{color:#fff}
+  .mini{margin:6px 0 0 0;color:var(--mut);font-size:.92rem}
+  .pills{margin:12px 0 0 0}
+  .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#eef2f7;border:1px solid #e6ebf2;margin:0 8px 8px 0;font-size:.9rem;color:#0f172a}
+  .hr{height:1px;background:var(--bd);margin:18px 0}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+  .card{border:1px solid var(--bd);border-radius:16px;padding:14px;background:#fff}
+  .card h3{margin:0 0 8px 0}
+  .mut{color:var(--mut)}
+  .kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+  .kpi .card{background:#fff}
+  .kpi b{font-size:1.02rem}
+  .cols{display:grid;grid-template-columns:1.2fr .8fr;gap:14px}
+  @media (max-width: 860px){.cols{grid-template-columns:1fr}}
 </style>
 
+<div class="wrap">
+
 <div class="hero">
+  <h1 class="h1">Assistant IA <b>installé pour vous</b> (Mac mini local ou VPS) — pour automatiser le travail qui vous ralentit</h1>
+  <p class="sub">Vous obtenez un système complet : interface type ChatGPT, mémoire durable, automatisations, intégrations à vos outils, garde‑fous et documentation. Objectif : moins de tri, moins d’oublis, plus d’exécution.</p>
 
-# Assistant IA **opérationnel** (pas un chatbot) — Mac mini (local) ou VPS
+  <div class="cols">
+    <div>
+      <ul class="bul">
+        <li><b>Inbox / messages</b> : tri, priorisation, réponses draft, suivi</li>
+        <li><b>Ops</b> : tâches, relances, reporting quotidien/hebdo</li>
+        <li><b>Contenu & docs</b> : synthèses, notes de réunion → actions</li>
+        <li><b>E‑commerce</b> : SAV, fiches produit, emails, reporting</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3>Contact</h3>
+      <div class="mut">Telegram</div>
+      <div class="ctaRow">
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20souhaite%20un%20assistant%20IA%20%28Mac%20mini%20ou%20VPS%29.%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D">Démarrer</a>
+      </div>
+      <p class="mini">Message recommandé : « Outils : … | Objectif : … »</p>
+    </div>
+  </div>
 
-<p class="sub">Mise en place clé en main : interface type ChatGPT, mémoire durable, automatisations, intégrations, garde‑fous, logs et documentation.</p>
-
-<div class="cta-row">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20souhaite%20un%20assistant%20IA%20%28local%20ou%20VPS%29.%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D">Démarrer sur Telegram</a>
-</div>
-<p class="note">Indiquez : vos outils (ex. Gmail/Shopify/Notion) + un objectif clair (ex. réduire le tri + relances).</p>
-
-<div class="pills">
-  <span class="pill">Local‑first (option)</span>
-  <span class="pill">Validation avant action (option)</span>
-  <span class="pill">Handover + docs</span>
-</div>
-
+  <div class="pills">
+    <span class="pill">Local‑first (option)</span>
+    <span class="pill">Validation avant action (option)</span>
+    <span class="pill">Logs</span>
+    <span class="pill">Handover + docs</span>
+  </div>
 </div>
 
 <div class="hr"></div>
 
-## Résultats (ce que les clients achètent)
-
-<div class="kpi">
-  <div class="card"><b>Temps</b><br><span class="muted">Réduction du tri, des relances, des résumés, du reporting.</span></div>
-  <div class="card"><b>Fiabilité</b><br><span class="muted">Système testable, logs, garde‑fous, maintenance optionnelle.</span></div>
-  <div class="card"><b>Contrôle</b><br><span class="muted">Mode “approval” : l’IA prépare, l’humain valide.</span></div>
-</div>
-
-<div class="hr"></div>
-
-## Pour qui
+## Ce qui est livré (précis)
 
 <div class="grid">
   <div class="card">
-    <h3>Solopreneurs / créateurs</h3>
-    <ul>
-      <li>brief quotidien + plan d’action</li>
-      <li>rédaction (posts/emails/offres) + variantes</li>
-      <li>veille → shortlist → actions</li>
-    </ul>
-  </div>
-  <div class="card">
-    <h3>Freelances / agences</h3>
-    <ul>
-      <li>briefs + propositions + docs</li>
-      <li>compte‑rendus → tâches → relances</li>
-      <li>support : tri + réponses draft</li>
-    </ul>
-  </div>
-  <div class="card">
-    <h3>E‑commerce</h3>
-    <ul>
-      <li>SAV : retours, livraison, remboursement (tri + drafts)</li>
-      <li>fiches produit & SEO : titres, bullets, descriptions</li>
-      <li>marketing : angles ads, scripts UGC, emails (abandon panier)</li>
-      <li>reporting : commandes/marges/stock → actions</li>
-    </ul>
-  </div>
-  <div class="card">
-    <h3>Équipes tech</h3>
-    <ul>
-      <li>runbooks, scripts, PR support, résumés d’incidents</li>
-      <li>docs → synthèses + tâches</li>
-      <li>rituels (daily/weekly) automatisés</li>
-    </ul>
-  </div>
-</div>
-
-<div class="hr"></div>
-
-## Ce qui est livré
-
-<div class="grid">
-  <div class="card">
-    <h3>Fondations</h3>
+    <h3>1) Base opérationnelle</h3>
     <ul>
       <li>UI web + API</li>
-      <li>mémoire durable (Markdown)</li>
-      <li>automatisations (brief / récap / rappels)</li>
+      <li>mémoire durable (structure + tags)</li>
+      <li>brief / récap / rappels</li>
     </ul>
   </div>
   <div class="card">
-    <h3>Workflows</h3>
+    <h3>2) Workflows</h3>
     <ul>
-      <li>2 workflows “ROI” (Sprint)</li>
-      <li>4–8 workflows (Setup complet)</li>
-      <li>garde‑fous & permissions</li>
+      <li>Sprint : <b>2 workflows</b> à ROI</li>
+      <li>Setup complet : <b>4–8 workflows</b></li>
+      <li>templates + SOP (mode d’emploi)</li>
     </ul>
   </div>
   <div class="card">
-    <h3>Hébergement</h3>
+    <h3>3) Sécurité & contrôle</h3>
     <ul>
-      <li>Mac mini (local) — confidentialité</li>
-      <li>VPS — accès partout</li>
-      <li>hybride — séparation sensible / non sensible</li>
+      <li>permissions minimales</li>
+      <li>validation avant envoi/publication (si souhaité)</li>
+      <li>logs + sauvegardes</li>
     </ul>
   </div>
   <div class="card">
-    <h3>Handover</h3>
+    <h3>4) Handover</h3>
     <ul>
       <li>documentation + schéma</li>
       <li>checklist de reprise</li>
@@ -135,13 +104,24 @@ title: "Assistant IA — installation clé en main"
 
 <div class="hr"></div>
 
-## Pourquoi ce format (vs. DIY / VA / agence)
+## Pour qui (cas d’usage)
 
 <div class="grid">
-  <div class="card"><h3>DIY</h3><div class="muted">Empilement d’outils + maintenance permanente + résultat incertain.</div></div>
-  <div class="card"><h3>VA / recrutement</h3><div class="muted">Formation + supervision + dépendance + qualité variable.</div></div>
-  <div class="card"><h3>Agence</h3><div class="muted">Plus lent, plus lourd, moins orienté exécution opérationnelle.</div></div>
-  <div class="card"><h3>Ici</h3><div class="muted">Système concret, garde‑fous, documentation, option maintenance.</div></div>
+  <div class="card"><h3>Solopreneurs / créateurs</h3><div class="mut">Brief quotidien, rédaction, veille → décisions + actions.</div></div>
+  <div class="card"><h3>Freelances / agences</h3><div class="mut">Briefs, comptes‑rendus, relances, standardisation livraison.</div></div>
+  <div class="card"><h3>E‑commerce</h3><div class="mut">SAV, fiches produit, emails (abandon panier), reporting stock/marge.</div></div>
+  <div class="card"><h3>Équipes tech</h3><div class="mut">Docs/runbooks, PR support, synthèses incidents, rituels automatisés.</div></div>
+</div>
+
+<div class="hr"></div>
+
+## Méthode (pour limiter le risque)
+
+<div class="kpi">
+  <div class="card"><b>1. Cadrage</b><br><span class="mut">Objectif + outils + contraintes (local/VPS).</span></div>
+  <div class="card"><b>2. Build</b><br><span class="mut">Automatisations + workflows + garde‑fous.</span></div>
+  <div class="card"><b>3. Test</b><br><span class="mut">Cas réels + ajustements + validation.</span></div>
+  <div class="card"><b>4. Handover</b><br><span class="mut">Docs + formation + plan de maintenance (option).</span></div>
 </div>
 
 <div class="hr"></div>
@@ -151,7 +131,7 @@ title: "Assistant IA — installation clé en main"
 <div class="grid">
   <div class="card">
     <h3>Sprint 7 jours</h3>
-    <div class="muted">À partir de <b>299€</b></div>
+    <div class="mut">À partir de <b>299€</b></div>
     <ul>
       <li>2 workflows à fort ROI</li>
       <li>automatisations + logs</li>
@@ -160,7 +140,7 @@ title: "Assistant IA — installation clé en main"
   </div>
   <div class="card">
     <h3>Setup complet</h3>
-    <div class="muted">À partir de <b>799€</b></div>
+    <div class="mut">À partir de <b>799€</b></div>
     <ul>
       <li>4–8 workflows + optimisation</li>
       <li>intégrations + garde‑fous</li>
@@ -169,7 +149,7 @@ title: "Assistant IA — installation clé en main"
   </div>
   <div class="card">
     <h3>Care plan (option)</h3>
-    <div class="muted">À partir de <b>149€/mois</b></div>
+    <div class="mut">À partir de <b>149€/mois</b></div>
     <ul>
       <li>maintenance + évolutions</li>
       <li>monitoring + support</li>
@@ -180,14 +160,16 @@ title: "Assistant IA — installation clé en main"
 <div class="hr"></div>
 
 ## FAQ
-**Fiabilité ?** Système simple, testable, documenté. Maintenance optionnelle.
+<b>Mac mini ou VPS ?</b> Local = confidentialité. VPS = accès partout. Hybride possible.
 
-**Confidentialité ?** Possibilité local‑first, séparation des accès, permissions minimales.
+<b>Fiabilité ?</b> Système testable + logs + garde‑fous. Maintenance optionnelle.
 
-**Contrôle ?** Mode validation avant action.
+<b>Contrôle ?</b> Mode validation avant action.
 
 <div class="hr"></div>
 
-<div class="cta-row">
+<div class="ctaRow">
   <a class="btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20souhaite%20un%20assistant%20IA.%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D">Démarrer sur Telegram</a>
+</div>
+
 </div>
