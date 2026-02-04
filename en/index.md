@@ -15,9 +15,14 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 
 
 **→ Start now:**
-- [GO + Mac (Telegram)](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20)
-- [GO + VPS (Telegram)](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
 
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
+  <a href="https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:700">GO + Mac (Telegram)</a>
+  <a href="https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:700">GO + VPS (Telegram)</a>
+  <a href="https://t.me/BruceWaaynee" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:700">Quick question</a>
+</div>
+
+<small>Fast track: send <b>GO + Mac</b> or <b>GO + VPS</b> + your timezone.</small>
 
 ---
 
