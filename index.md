@@ -87,4 +87,11 @@ Copie/colle :
 ou
 - **GO + VPS** + ton fuseau horaire
 
+### Écris-moi sur Telegram
+- **GO + Mac** : [t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20)
+- **GO + VPS** : [t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
+- **Question rapide** : [t.me/BruceWaaynee](https://t.me/BruceWaaynee)
+
+
+
 Je te réponds avec **2 créneaux**.

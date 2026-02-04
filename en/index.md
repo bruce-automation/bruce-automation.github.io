@@ -87,4 +87,11 @@ Copy/paste:
 or
 - **GO + VPS** + your timezone
 
+### Message me on Telegram
+- **GO + Mac**: [t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20](https://t.me/BruceWaaynee?text=GO%20%2B%20Mac%20%2B%20Timezone%20%3A%20)
+- **GO + VPS**: [t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20](https://t.me/BruceWaaynee?text=GO%20%2B%20VPS%20%2B%20Timezone%20%3A%20)
+- **Quick question**: [t.me/BruceWaaynee](https://t.me/BruceWaaynee)
+
+
+
 I’ll reply with **two available time slots**.
