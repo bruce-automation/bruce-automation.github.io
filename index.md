@@ -49,9 +49,9 @@ title: "Assistant IA — installation clé en main"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a>
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Sprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a>
       </div>
-      <p class="mini">Message : « Formule : Sprint 7 jours / Setup complet | Outils : … | Objectif : … | Local/VPS : … »</p>
+      <p class="mini">Message : « Formule : Session 1h / Sprint 7 jours / Setup complet | Outils : … | Objectif : … | Local/VPS : … »</p>
     </div>
   </div>
 
@@ -130,6 +130,17 @@ title: "Assistant IA — installation clé en main"
 
 <div class="grid">
   <div class="card">
+    <h3>Session <b>1 heure</b></h3>
+    <div class="mut"><b>Livré en 60 minutes</b> — à partir de <b>149€</b></div>
+    <ul>
+      <li>cadrage express (objectif + outils + contraintes)</li>
+      <li>installation + configuration de base (local ou VPS)</li>
+      <li><b>1 workflow simple</b> mis en place (ex: brief quotidien / tri inbox / compte‑rendu → tâches)</li>
+      <li>garde‑fous essentiels + checklist “comment l’utiliser”</li>
+      <li><b>Option</b> : upgrade vers Sprint 7 jours / Setup complet</li>
+    </ul>
+  </div>
+  <div class="card">
     <h3>Sprint <b>7 jours</b></h3>
     <div class="mut"><b>Livré en 7 jours</b> — à partir de <b>299€</b></div>
     <ul>
@@ -171,7 +182,7 @@ title: "Assistant IA — installation clé en main"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Sprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
 </div>
 
 </div>

@@ -47,7 +47,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B7-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start</a>
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%207-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start</a>
       </div>
       <p class="mini">Message: “Package: 7‑day Sprint / Full setup | Tools: … | Goal: … | Local/VPS: …”</p>
     </div>
@@ -128,6 +128,17 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 
 <div class="grid">
   <div class="card">
+    <h3><b>1‑hour</b> Session</h3>
+    <div class="mut"><b>Delivered in 60 minutes</b> — from <b>€149</b></div>
+    <ul>
+      <li>rapid scope (goal + tools + constraints)</li>
+      <li>install + baseline configuration (local or VPS)</li>
+      <li><b>1 simple workflow</b> shipped (e.g., daily brief / inbox triage / meeting → tasks)</li>
+      <li>essential guardrails + “how to use” checklist</li>
+      <li><b>Option:</b> upgrade to 7‑day Sprint / Full setup</li>
+    </ul>
+  </div>
+  <div class="card">
     <h3><b>7‑day</b> Sprint</h3>
     <div class="mut"><b>Delivered in 7 days</b> — from <b>€299</b></div>
     <ul>
@@ -169,7 +180,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B7-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%207-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a>
 </div>
 
 </div>
