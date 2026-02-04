@@ -47,7 +47,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%207-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start</a>
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start</a>
       </div>
       <p class="mini">Message: “Package: 7‑day Sprint / Full setup | Tools: … | Goal: … | Local/VPS: …”</p>
     </div>
@@ -128,36 +128,37 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 
 <div class="grid">
   <div class="card">
-    <h3><b>1‑hour</b> Session</h3>
-    <div class="mut"><b>Delivered in 60 minutes</b> — from <b>€149</b></div>
+    <h3><b>1‑hour</b> Session (Starter)</h3>
+    <div class="mut">From <b>€149</b></div>
     <ul>
       <li>rapid scope (goal + tools + constraints)</li>
       <li>install + baseline configuration (local or VPS)</li>
-      <li><b>1 simple workflow</b> shipped (e.g., daily brief / inbox triage / meeting → tasks)</li>
+      <li><b>1 simple workflow</b> shipped</li>
       <li>essential guardrails + “how to use” checklist</li>
-      <li><b>Option:</b> upgrade to 7‑day Sprint / Full setup</li>
     </ul>
   </div>
+
   <div class="card">
-    <h3><b>7‑day</b> Sprint</h3>
-    <div class="mut"><b>Delivered in 7 days</b> — from <b>€299</b></div>
+    <h3>Setup <b>Standard</b></h3>
+    <div class="mut">From <b>€499</b></div>
     <ul>
-      <li><b>Day 1</b> scope (goal + tools + access)</li>
-      <li><b>Days 2–5</b> build + integrations + guardrails</li>
-      <li><b>Day 6</b> real‑case testing + tweaks</li>
-      <li><b>Day 7</b> handover (docs + checklist + short training)</li>
-      <li><b>Includes:</b> 2 high‑ROI workflows + automations + logs</li>
+      <li><b>2–3</b> high‑ROI workflows</li>
+      <li>integrations + guardrails + logs</li>
+      <li>basic templates + memory structure</li>
+      <li>handover (docs + short training)</li>
     </ul>
   </div>
+
   <div class="card">
-    <h3>Full setup</h3>
+    <h3>Setup <b>Complete</b></h3>
     <div class="mut">From <b>€799</b></div>
     <ul>
-      <li>4–8 workflows + optimization</li>
-      <li>integrations + guardrails</li>
-      <li>templates + memory structure</li>
+      <li><b>4–8</b> workflows + optimization</li>
+      <li>integrations + minimal permissions</li>
+      <li>templates + memory structure + SOP</li>
     </ul>
   </div>
+
   <div class="card">
     <h3>Care plan (optional)</h3>
     <div class="mut">From <b>€149/mo</b></div>
@@ -180,7 +181,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%207-day%20Sprint%20%2F%20Full%20setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%20%7C%20Tools%20%3A%20%5B%5D%20%7C%20Goal%20%3A%20%5B%5D%20%7C%20Local%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a>
 </div>
 
 </div>

@@ -49,9 +49,9 @@ title: "Assistant IA — installation clé en main"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Sprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a>
+        <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a>
       </div>
-      <p class="mini">Message : « Formule : Session 1h / Sprint 7 jours / Setup complet | Outils : … | Objectif : … | Local/VPS : … »</p>
+      <p class="mini">Message : « Formule : Session 1h / Setup Standard / Setup Complet | Outils : … | Objectif : … | Local/VPS : … »</p>
     </div>
   </div>
 
@@ -130,36 +130,37 @@ title: "Assistant IA — installation clé en main"
 
 <div class="grid">
   <div class="card">
-    <h3>Session <b>1 heure</b></h3>
-    <div class="mut"><b>Livré en 60 minutes</b> — à partir de <b>149€</b></div>
+    <h3>Session <b>1h</b> (Starter)</h3>
+    <div class="mut">À partir de <b>149€</b></div>
     <ul>
       <li>cadrage express (objectif + outils + contraintes)</li>
       <li>installation + configuration de base (local ou VPS)</li>
-      <li><b>1 workflow simple</b> mis en place (ex: brief quotidien / tri inbox / compte‑rendu → tâches)</li>
-      <li>garde‑fous essentiels + checklist “comment l’utiliser”</li>
-      <li><b>Option</b> : upgrade vers Sprint 7 jours / Setup complet</li>
+      <li><b>1 workflow</b> simple mis en place</li>
+      <li>garde‑fous essentiels + checklist d’usage</li>
     </ul>
   </div>
+
   <div class="card">
-    <h3>Sprint <b>7 jours</b></h3>
-    <div class="mut"><b>Livré en 7 jours</b> — à partir de <b>299€</b></div>
+    <h3>Setup <b>Standard</b></h3>
+    <div class="mut">À partir de <b>499€</b></div>
     <ul>
-      <li><b>J1</b> cadrage (objectif + outils + accès)</li>
-      <li><b>J2–J5</b> build + intégrations + garde‑fous</li>
-      <li><b>J6</b> tests sur cas réels + ajustements</li>
-      <li><b>J7</b> handover (docs + checklist + formation courte)</li>
-      <li><b>Inclus :</b> 2 workflows à fort ROI + automatisations + logs</li>
+      <li><b>2–3 workflows</b> à fort ROI</li>
+      <li>intégrations + garde‑fous + logs</li>
+      <li>templates + structure mémoire de base</li>
+      <li>handover (docs + formation courte)</li>
     </ul>
   </div>
+
   <div class="card">
-    <h3>Setup complet</h3>
+    <h3>Setup <b>Complet</b></h3>
     <div class="mut">À partir de <b>799€</b></div>
     <ul>
-      <li>4–8 workflows + optimisation</li>
-      <li>intégrations + garde‑fous</li>
-      <li>templates + structure mémoire</li>
+      <li><b>4–8 workflows</b> + optimisation</li>
+      <li>intégrations + permissions minimales</li>
+      <li>templates + structure mémoire + SOP</li>
     </ul>
   </div>
+
   <div class="card">
     <h3>Care plan (option)</h3>
     <div class="mut">À partir de <b>149€/mois</b></div>
@@ -182,7 +183,7 @@ title: "Assistant IA — installation clé en main"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Sprint%207%20jours%20%2F%20Setup%20complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
+  <a class="btn" href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%20%7C%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
 </div>
 
 </div>
