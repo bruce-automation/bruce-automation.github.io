@@ -5,52 +5,86 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
 
 [Version française →](/)
 
-# Local AI Assistant (Mac mini) or Hosted (VPS) — Done‑for‑you setup in 60 minutes
+# Your AI assistant (local Mac mini or VPS) in 60 minutes — built to work, not to demo
 
-## Promise
-I’ll set up a **24/7 AI assistant** (local on a Mac mini or on a VPS): chat UI, automations, durable memory, and practical workflows.
+**Goal:** deliver a **24/7 AI assistant** with a ChatGPT‑like web UI, durable memory, and automations that save you time **from day one**.
 
-## Who it’s for
-- Solopreneurs / creators: content, research, writing, organization
-- Freelancers / agencies: inbox triage, briefs, docs, support
-- Tech teams: dev workflows, GitHub, runbooks
+**Two options:**
+- **Local (Mac mini)** → maximum privacy, near‑zero API costs
+- **VPS** → accessible anywhere, stable, easy to scale
 
-## What you get
-- **AI engine**: fast + quality + coding models (local and/or cloud)
-- **UI**: ChatGPT‑like web UI + local API
-- **Automations**: daily brief + end‑of‑day recap + reminders (your cadence)
-- **Memory**: durable Markdown workspace structure
-- **Security**: minimal exposure, permissions, baseline audit
-- **2 workflows of your choice**
-  - PDFs/links → summaries + actions
-  - Writing (emails, posts, proposals)
-  - Monitoring + daily shortlist
-  - Dev helper (PR review, scripts)
+---
 
-## Simple pricing
-**Starter — €149**  
-- Full setup (Mac mini OR VPS)
-- 1 workflow
+## What you get (practical)
 
-**Pro — €299**  
-- Full setup + performance tuning
-- 2 workflows
-- 7‑day support
+### 1) A usable assistant immediately
+- **Web chat UI** (ChatGPT‑like) + API access
+- **Models** tuned for your use (speed / quality / coding)
+- **Durable memory** (Markdown, auditable, long‑lasting)
 
-**Elite — €499**  
-- Full setup + document RAG + advanced hardening
-- 3 workflows
-- 30‑day support
+### 2) Automations that actually help
+We set up a simple, useful baseline (no overengineering):
+- **Daily brief** (priorities + key info)
+- **End‑of‑day recap** (done / follow‑ups)
+- **Reminders** (your cadence, your wording)
 
-## Requirements
-- Mac mini: machine on + local admin access
-- VPS: SSH access + provider (Hetzner/DigitalOcean/OVH) + optional domain
+### 3) Pick 2 workflows (examples)
+- PDFs / links → **summary + actions** (checklist, decision, next steps)
+- Writing → emails, posts, proposals **ready to send**
+- Monitoring → daily shortlist + alerts
+- Dev helper → scripts, PR review, runbooks
 
-## 60‑minute flow
-1) 10 min: goals + constraints + choose local/VPS
-2) 30 min: install + models + UI
-3) 15 min: workflows + automations
-4) 5 min: final checks + quick “how to use” doc
+---
+
+## Best for
+- **Solopreneurs / creators**: content, research, organization
+- **Freelancers / agencies**: briefs, docs, support, replies
+- **Tech teams**: GitHub, runbooks, ops
+
+---
+
+## Pricing
+
+### Starter — **€149**
+- Full setup (Mac mini **or** VPS)
+- **1 workflow**
+
+### Pro — **€299** (recommended)
+- Full setup + optimization (performance + reliability)
+- **2 workflows**
+- **7‑day support** (tweaks)
+
+### Elite — **€499**
+- Full setup + **document RAG** + advanced hardening
+- **3 workflows**
+- **30‑day support**
+
+---
+
+## The 60‑minute flow
+1) **10 min**: goals + constraints (local/VPS)
+2) **30 min**: install + models + UI
+3) **15 min**: workflows + automations
+4) **5 min**: final check + short “how to use” doc
+
+---
+
+## Security & privacy
+- **Local**: your data stays on your machine
+- **VPS**: baseline hardening (restricted access, minimal exposure)
+- **Never acts on your behalf without approval** (messages / posts)
+
+---
+
+## Guarantee
+If it’s not stable and usable by the end of the session: **I keep going until it is**.
+
+---
 
 ## CTA
-Reply: **“GO + Mac”** or **“GO + VPS”** + your timezone and I’ll propose a slot.
+Copy/paste:
+- **GO + Mac** + your timezone
+or
+- **GO + VPS** + your timezone
+
+I’ll reply with **two available time slots**.

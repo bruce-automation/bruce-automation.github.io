@@ -5,65 +5,86 @@ title: "Assistant IA — installation clé en main"
 
 [English version →](/en/)
 
-# Assistant IA local (Mac mini) ou hébergé (VPS) — Installation clé en main en 60 minutes
+# Ton assistant IA (local Mac mini ou VPS) en 60 minutes — prêt à bosser, pas à “jouer”
 
-## Promesse
-Je te mets en place un **assistant IA opérationnel H24** (local sur Mac mini ou sur VPS) : chat, automatisations, mémoire, et workflows concrets.
+**Objectif :** te livrer un assistant IA **H24**, avec une interface type ChatGPT, une mémoire durable, et des automatisations qui te font gagner du temps **dès le jour 1**.
 
-## Pour qui
-- Solopreneurs / créateurs : contenu, veille, rédaction, organisation
-- Freelances / agences : tri & réponses, briefs, docs, support
-- Équipes tech : workflows dev, GitHub, runbooks
+**Deux options :**
+- **Local (Mac mini)** → confidentialité maximale, coûts API ≈ 0
+- **VPS** → accessible partout, stable, facile à scaler
 
-## Ce que tu obtiens (livrables)
-- **Moteur IA** : modèles locaux (rapide + qualité + code) et/ou cloud selon besoin
-- **Interface** : UI type ChatGPT (web) + accès API
-- **Automatisations** : brief quotidien + récap + rappels (selon ton rythme)
-- **Mémoire** : structure Markdown (durable, auditable)
-- **Sécurité** : exposition minimale, permissions, audit de base
-- **2 workflows au choix** (exemples)
-  - Résumer PDFs / liens → actions
-  - Rédaction (emails, posts, propositions)
-  - Veille + shortlist quotidienne
-  - Dev helper (PR review, scripts)
+---
 
-## Offres (simples)
-**Starter — 149€**  
-- Setup complet (Mac mini OU VPS)
-- 1 workflow
+## Ce que tu obtiens (concret)
 
-**Pro — 299€**  
-- Setup complet + optimisation
-- 2 workflows
-- 7 jours de support (ajustements)
+### 1) Un assistant utilisable immédiatement
+- **Chat UI web** (comme ChatGPT) + accès API
+- **Modèles** adaptés à ton usage (rapide / qualité / code)
+- **Mémoire** structurée (Markdown, auditable, durable)
 
-**Elite — 499€**  
-- Setup complet + docs (RAG) + sécurité avancée
-- 3 workflows
-- 30 jours de support
+### 2) Des automatisations qui servent vraiment
+On met en place une base “utile” (sans usine à gaz) :
+- **Brief quotidien** (priorités + infos clés)
+- **Récap fin de journée** (ce qui a été fait / à relancer)
+- **Rappels** (sur ton rythme, avec ton vocabulaire)
 
-## Prérequis
-- Mac mini : machine allumée + accès admin local
-- VPS : accès SSH + provider (Hetzner/DigitalOcean/OVH) + domaine optionnel
+### 3) 2 workflows au choix (exemples)
+- PDFs / liens → **résumé + actions** (checklist, décision, next steps)
+- Rédaction → emails, posts, propositions **prêts à envoyer**
+- Veille → shortlist quotidienne + alertes
+- Dev helper → scripts, PR review, runbooks
 
-## Déroulé (60 minutes)
-1) 10 min : objectifs + contraintes + choix du mode (local/VPS)
-2) 30 min : installation + modèles + UI
-3) 15 min : 1–2 workflows + automatisations
-4) 5 min : check final + doc “comment l’utiliser”
+---
+
+## Pour qui c’est idéal
+- **Solopreneurs / créateurs** : contenu, veille, organisation
+- **Freelances / agences** : briefs, docs, support, réponses
+- **Équipes tech** : GitHub, runbooks, ops
+
+---
+
+## Offres
+
+### Starter — **149€**
+- Setup complet (Mac mini **ou** VPS)
+- **1 workflow**
+
+### Pro — **299€** (recommandé)
+- Setup complet + optimisation (perf + fiabilité)
+- **2 workflows**
+- **7 jours de support** (ajustements)
+
+### Elite — **499€**
+- Setup complet + **RAG docs** + sécurité avancée
+- **3 workflows**
+- **30 jours de support**
+
+---
+
+## Comment ça se passe (60 minutes)
+1) **10 min** : objectifs + contraintes (local/VPS)
+2) **30 min** : installation + modèles + UI
+3) **15 min** : workflows + automatisations
+4) **5 min** : check final + mini doc “comment l’utiliser”
+
+---
+
+## Sécurité & confidentialité
+- **Local** : tes données restent sur ta machine
+- **VPS** : durcissement de base (accès restreint, exposition minimale)
+- **Jamais d’actions à ta place sans validation** (messages / publications)
+
+---
 
 ## Garantie
-Si ça ne tourne pas correctement à la fin de la session, je continue jusqu’à ce que ce soit stable.
+Si à la fin de la session ce n’est pas stable et utilisable : **je continue jusqu’à ce que ça tourne**.
 
-## FAQ
-**Ça coûte combien en API ?**  
-- En local : 0€ d’API (hors électricité). En cloud : selon ton provider.
+---
 
-**Tu peux poster/envoyer des messages à ma place ?**  
-- Oui **avec validation**, jamais sans ton accord.
+## CTA
+Copie/colle :
+- **GO + Mac** + ton fuseau horaire
+ou
+- **GO + VPS** + ton fuseau horaire
 
-**Et la confidentialité ?**  
-- Local = tes données restent sur ta machine. VPS = durcissement + accès restreint.
-
-## Call to action
-Réponds : **“GO + Mac”** ou **“GO + VPS”** + ton fuseau horaire, et je te propose un créneau.
+Je te réponds avec **2 créneaux**.
