@@ -15,7 +15,7 @@ I deploy a **done‑for‑you AI operator system** (local **Mac mini** or isolat
   <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20VPS%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Timezone%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + VPS (Telegram)</a>
   <a href="https://t.me/BruceWaaynee?text=Quick%20question%20%3A%20" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Quick question</a>
 </div>
-<small><b>Fast track:</b> send <b>ASSISTANT</b> + your top 3 tools + 1 goal. I’ll reply with a plan + estimate.</small>
+<small><b>Quick reply:</b> click a button, then describe your situation in 1–2 lines on Telegram.</small>
 
 ---
 
@@ -76,8 +76,8 @@ Runbooks, scripts, PR support, incident summaries, weekly rituals.
 
 ---
 
-## CTA
+## Get started
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Local%20or%20VPS%20%3A%20%7C%20Timezone%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Start on Telegram</a>
+  <a href="https://t.me/BruceWaaynee?text=I%20want%20an%20AI%20assistant%20system%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Start on Telegram</a>
 </div>
-<small>Send: <b>ASSISTANT</b> | Tools: … | Goal: … | Local/VPS: … | Timezone: …</small>
+<small>Just tell me: <b>your context</b> + <b>your goal</b> (e.g. “Gmail+Notion, save 5h/week on triage & follow-ups”).</small>

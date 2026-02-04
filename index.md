@@ -15,7 +15,7 @@ Je t’installe un **système d’assistant IA opérationnel H24** (sur **Mac mi
   <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20VPS%20%7C%20Outils%20%3A%20%7C%20Objectif%20%3A%20%7C%20Fuseau%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + VPS (Telegram)</a>
   <a href="https://t.me/BruceWaaynee?text=Question%20rapide%20%3A%20" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Question rapide</a>
 </div>
-<small><b>Fast track :</b> envoie <b>ASSISTANT</b> + tes 3 outils (ex: Gmail/Notion/Slack) + 1 objectif. Je réponds avec un plan + une estimation.</small>
+<small><b>Réponse rapide :</b> clique un bouton, puis décris ton besoin en 1–2 lignes sur Telegram.</small>
 
 ---
 
@@ -102,8 +102,8 @@ On extrait tes workflows à partir de tes outils actuels en 30–45 min.
 
 ---
 
-## CTA (dernier rappel)
+## Démarrer
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%7C%20Outils%20%3A%20%7C%20Objectif%20%3A%20%7C%20Local%20ou%20VPS%20%3A%20%7C%20Fuseau%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Démarrer sur Telegram</a>
+  <a href="https://t.me/BruceWaaynee?text=Je%20veux%20un%20assistant%20IA%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Démarrer sur Telegram</a>
 </div>
-<small>À envoyer : <b>ASSISTANT</b> | Outils: … | Objectif: … | Local/VPS: … | Fuseau: …</small>
+<small>Dis-moi simplement : <b>ton contexte</b> + <b>ton objectif</b> (ex: “Gmail+Notion, gagner 5h/sem sur tri & suivi”).</small>
