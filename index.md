@@ -5,85 +5,108 @@ title: "Assistant IA — installation clé en main"
 
 [English version →](/en/)
 
-# Un assistant IA qui **fait avancer ton business** (pas un chatbot) — livré en 60 minutes
+<style>
+  .hero { margin-top: 10px; }
+  .sub { font-size: 1.05rem; opacity: .9; }
+  .cta-row { display:flex; gap:12px; flex-wrap:wrap; margin:14px 0 6px 0; }
+  .cta-btn { display:inline-block; background:#0ea5e9; color:#fff; padding:14px 20px; border-radius:12px; text-decoration:none; font-weight:900; }
+  .cta-note { font-size:.92rem; opacity:.85; margin:0 0 12px 0; }
+  .pill { display:inline-block; padding:4px 10px; border-radius:999px; background:#f3f4f6; }
+  .grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:14px; }
+  .card { border:1px solid #e5e7eb; border-radius:14px; padding:14px 14px 10px 14px; background:#fff; }
+  .card h3 { margin-top:0; }
+</style>
 
-Tu veux arrêter de **trier, relancer, résumer, copier‑coller** ?
-Je t’installe un **système d’assistant IA opérationnel H24** (sur **Mac mini** ou **VPS**) connecté à tes outils, avec **garde‑fous**, **logs** et **handover**.
+<div class="hero">
 
-<div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=Je%20veux%20un%20assistant%20IA%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 18px;border-radius:10px;text-decoration:none;font-weight:900">Démarrer sur Telegram</a>
+# Un assistant IA **opérationnel** (pas un chatbot) — livré en 60 minutes
+
+<p class="sub">Mise en place clé en main sur <b>Mac mini (local)</b> ou <b>VPS</b> : interface type ChatGPT, mémoire durable, automatisations, intégrations, garde‑fous, logs et documentation.</p>
+
+<div class="cta-row">
+  <a class="cta-btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20veux%20mettre%20en%20place%20un%20assistant%20IA.%20Mon%20contexte%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
 </div>
-<small><b>Réponse rapide :</b> clique un bouton, puis décris ton besoin en 1–2 lignes sur Telegram.</small>
+<p class="cta-note">Indiquez simplement : outils (ex: Gmail/Shopify/Notion) + objectif (ex: gagner 5h/sem sur tri & suivi).</p>
+
+<p><span class="pill">Local-first</span> <span class="pill">Human-in-the-loop</span> <span class="pill">Handover + docs</span></p>
+
+</div>
 
 ---
 
-## Résultats typiques (ce qu’on vise)
-- **5–10h/semaine** récupérées sur coordination / tri / suivi (selon volume)
-- **Zéro chaos** : process clair (intake → priorités → exécution → reporting)
-- **Contrôle total** : l’assistant propose et prépare, et **n’exécute qu’avec validation** (si tu veux)
+## Résultats visés
+- **5–10h/semaine** récupérées sur tri, coordination, suivi, rédaction
+- Un système clair : **intake → priorités → exécution → reporting**
+- **Contrôle** : validation avant action (envoi / publication / opérations sensibles)
 
 ---
 
-## Pour qui (4 profils, même système)
-
-### 1) Solopreneurs / créateurs
-Tu veux : publier plus vite, décider plus vite, garder le focus.
-- brief du matin + plan du jour
-- rédaction (posts/emails/offres) + variantes
-- veille → shortlist → actions
-
-### 2) Freelances / agences
-Tu veux : livrer mieux sans t’épuiser, standardiser, réduire les oublis.
-- briefs clients propres + docs + propositions
-- compte‑rendus de call → tâches → relances
-- support “draft” + tri + priorisation
-
-### 3) E‑commerce (Shopify / WooCommerce / Amazon)
-Tu veux : plus de ventes, moins de support, et des décisions plus rapides.
-- support client : tri + réponses draft (retours, livraison, SAV)
-- fiches produit & SEO : titres, bullets, descriptions, A/B variants
-- ads & contenu : angles, hooks, scripts UGC, emails (abandon panier)
-- reporting : résumé quotidien commandes/marges/ruptures + points d’action
-
-### 4) Équipes tech
-Tu veux : moins d’allers‑retours, plus d’Ops, moins de bruit.
-- runbooks, scripts, PR reviews, résumés d’incidents
-- GitHub/Docs → synthèses + tâches
-- rituels (daily/weekly) automatisés
+## Pour qui
+<div class="grid">
+  <div class="card">
+    <h3>Solopreneurs / créateurs</h3>
+    <ul>
+      <li>brief quotidien + plan d’action</li>
+      <li>rédaction (posts/emails/offres) + variantes</li>
+      <li>veille → shortlist → actions</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Freelances / agences</h3>
+    <ul>
+      <li>briefs propres + propositions + docs</li>
+      <li>compte‑rendus → tâches → relances</li>
+      <li>support : tri + réponses draft</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>E‑commerce</h3>
+    <ul>
+      <li>SAV : retours, livraison, remboursement (draft + tri)</li>
+      <li>fiches produit & SEO : titres, bullets, descriptions, variantes</li>
+      <li>marketing : angles ads, scripts UGC, emails (abandon panier)</li>
+      <li>reporting : commandes/marges/ruptures → actions</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>Équipes tech</h3>
+    <ul>
+      <li>runbooks, scripts, PR support, résumés d’incidents</li>
+      <li>docs → synthèses + tâches</li>
+      <li>rituels (daily/weekly) automatisés</li>
+    </ul>
+  </div>
+</div>
 
 ---
 
-## Ce que j’installe (concret)
-### Un **opérateur IA** connecté à tes outils
-- **Interface web** type ChatGPT + API
+## Ce qui est installé
+- **UI web** type ChatGPT + accès API
 - **Mémoire durable** (Markdown, auditable)
-- **Automatisations utiles** (brief / récap / rappels)
-- **2 workflows** au choix (et on peut monter à 4–8 selon l’offre)
+- **Automatisations** (brief / récap / rappels)
+- **Workflows** (2 au départ, jusqu’à 4–8 en setup complet)
 
-### 2 modes (au choix)
+### Hébergement
 - **Mac mini (local)** : confidentialité maximale, coûts API souvent ≈ 0
 - **VPS** : accessible partout, stable, scalable
 - **Hybride** : local pour le sensible + VPS pour le reste
 
 ---
 
-## Fiabilité & sécurité (ce qui rassure)
-- **Garde‑fous** : validation avant envoi/publication/actions sensibles
-- **Permissions minimales** : on n’ouvre que ce qui est nécessaire
-- **Logs + documentation** : tu gardes la main et tu comprends le système
+## Fiabilité & sécurité
+- validation avant action (au choix)
+- permissions minimales
+- logs + documentation (vous gardez la main)
 
 ---
 
-## Offres (simples, faites pour signer vite)
-
+## Offres
 ### Sprint 7 jours — **à partir de 299€**
-Idéal pour un démarrage rapide.
 - 2 workflows à fort ROI
 - automatisations de base + logs
-- handover (doc + check)
+- handover (documentation + checklist)
 
 ### Setup complet — **à partir de 799€**
-Pour un vrai “système”.
 - 4–8 workflows + optimisation
 - intégrations + garde‑fous
 - structure mémoire + templates
@@ -91,24 +114,17 @@ Pour un vrai “système”.
 ### Care plan (option) — **à partir de 149€/mois**
 - maintenance + évolutions + monitoring
 
-<small>Si tu veux garder les prix actuels (149/299/499), je peux les remettre — mais ces paliers convertissent souvent mieux pour du done‑for‑you sérieux.</small>
+---
+
+## Questions fréquentes
+**Fiabilité ?** Système simple, testable, documenté. Care plan possible.
+
+**Contrôle ?** Mode validation : l’IA prépare, l’humain approuve.
+
+**Peu de temps pour briefer ?** Extraction des workflows depuis les outils actuels (30–45 min).
 
 ---
 
-## FAQ (objections)
-**“J’ai peur que ça casse.”**  
-On construit simple, testable, et documenté. Et si tu prends le care plan : maintenance + suivi.
-
-**“Je veux garder le contrôle.”**  
-On met un mode **approval** : l’IA prépare, tu valides.
-
-**“Je n’ai pas le temps de briefer.”**  
-On extrait tes workflows à partir de tes outils actuels en 30–45 min.
-
----
-
-## Démarrer
-<div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=Je%20veux%20un%20assistant%20IA%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Démarrer sur Telegram</a>
+<div class="cta-row">
+  <a class="cta-btn" href="https://t.me/BruceWaaynee?text=Bonjour%2C%20je%20veux%20mettre%20en%20place%20un%20assistant%20IA.%20Outils%20%3A%20%5B%5D%20%7C%20Objectif%20%3A%20%5B%5D%20%7C%20Local%2FVPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
 </div>
-<small>Dis-moi simplement : <b>ton contexte</b> + <b>ton objectif</b> (ex: “Gmail+Notion, gagner 5h/sem sur tri & suivi”).</small>
