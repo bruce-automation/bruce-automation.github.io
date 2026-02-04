@@ -131,7 +131,7 @@ title: "Assistant IA — installation clé en main"
 <div class="grid">
   <div class="card">
     <h3>Session <b>1h</b> (Starter)</h3>
-    <div class="mut">À partir de <b>149€</b></div>
+    <div class="mut"><b>Promo lancement</b> — <b>149€</b> pour les <b>500 premiers</b></div>
     <ul>
       <li>cadrage express (objectif + outils + contraintes)</li>
       <li>installation + configuration de base (local ou VPS)</li>
