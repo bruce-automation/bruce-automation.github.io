@@ -11,9 +11,7 @@ Tu veux arrêter de **trier, relancer, résumer, copier‑coller** ?
 Je t’installe un **système d’assistant IA opérationnel H24** (sur **Mac mini** ou **VPS**) connecté à tes outils, avec **garde‑fous**, **logs** et **handover**.
 
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20Mac%20%7C%20Outils%20%3A%20%7C%20Objectif%20%3A%20%7C%20Fuseau%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + Mac (Telegram)</a>
-  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20VPS%20%7C%20Outils%20%3A%20%7C%20Objectif%20%3A%20%7C%20Fuseau%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + VPS (Telegram)</a>
-  <a href="https://t.me/BruceWaaynee?text=Question%20rapide%20%3A%20" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Question rapide</a>
+  <a href="https://t.me/BruceWaaynee?text=Je%20veux%20un%20assistant%20IA%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 18px;border-radius:10px;text-decoration:none;font-weight:900">Démarrer sur Telegram</a>
 </div>
 <small><b>Réponse rapide :</b> clique un bouton, puis décris ton besoin en 1–2 lignes sur Telegram.</small>
 

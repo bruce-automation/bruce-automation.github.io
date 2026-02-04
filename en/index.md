@@ -11,9 +11,7 @@ Tired of **triage, follow‑ups, summaries, copy‑paste**?
 I deploy a **done‑for‑you AI operator system** (local **Mac mini** or isolated **VPS**) connected to your tools with **approval gates**, **logs**, and **handover docs**.
 
 <div style="display:flex;gap:12px;flex-wrap:wrap;margin:12px 0 6px 0">
-  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20Mac%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Timezone%20%3A%20" style="background:#0ea5e9;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + Mac (Telegram)</a>
-  <a href="https://t.me/BruceWaaynee?text=ASSISTANT%20%2B%20VPS%20%7C%20Tools%20%3A%20%7C%20Goal%20%3A%20%7C%20Timezone%20%3A%20" style="background:#111827;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">GO + VPS (Telegram)</a>
-  <a href="https://t.me/BruceWaaynee?text=Quick%20question%20%3A%20" style="background:#22c55e;color:white;padding:12px 16px;border-radius:10px;text-decoration:none;font-weight:800">Quick question</a>
+  <a href="https://t.me/BruceWaaynee?text=I%20want%20an%20AI%20assistant%20system%3A%20" style="background:#0ea5e9;color:white;padding:12px 18px;border-radius:10px;text-decoration:none;font-weight:900">Start on Telegram</a>
 </div>
 <small><b>Quick reply:</b> click a button, then describe your situation in 1–2 lines on Telegram.</small>
 
