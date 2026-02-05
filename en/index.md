@@ -58,6 +58,47 @@ lang: en
 
   <div class="hr"></div>
 
+  <h2 class="h2">Outcomes <span class="h2__mut">(week 1)</span></h2>
+
+  <div class="grid metrics">
+    <div class="card metric">
+      <div class="metric__kpi">10–30 min/day</div>
+      <div class="mut">saved on triage / follow‑ups / micro tasks (depending on volume)</div>
+    </div>
+    <div class="card metric">
+      <div class="metric__kpi">0 follow‑up lost</div>
+      <div class="mut">if you follow the protocol: reminder, date, owner</div>
+    </div>
+    <div class="card metric">
+      <div class="metric__kpi">2‑min brief</div>
+      <div class="mut">daily/weekly: decisions + next actions</div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <h2 class="h2">Before → After <span class="h2__mut">(examples)</span></h2>
+
+  <div class="grid cases">
+    <div class="card case">
+      <h3>Inbox & messaging</h3>
+      <div class="case__row"><span class="case__label">Before</span><span class="mut">30–80 messages pending, replies “to write”, no priorities.</span></div>
+      <div class="case__row"><span class="case__label">After</span><span class="mut">Top 5 to handle, drafts ready, follow‑ups scheduled + logs.</span></div>
+    </div>
+    <div class="card case">
+      <h3>Meetings & docs</h3>
+      <div class="case__row"><span class="case__label">Before</span><span class="mut">scattered notes, lost decisions, forgotten tasks.</span></div>
+      <div class="case__row"><span class="case__label">After</span><span class="mut">notes → actions, owner, deadlines + durable memory.</span></div>
+    </div>
+    <div class="card case">
+      <h3>Ops & reporting</h3>
+      <div class="case__row"><span class="case__label">Before</span><span class="mut">no visibility: “where are we?” multiple times a week.</span></div>
+      <div class="case__row"><span class="case__label">After</span><span class="mut">auto brief + alerts: clear status, blockers surfaced.</span></div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
   <h2 class="h2">Problems solved <span class="h2__mut">(concrete)</span></h2>
 
   <div class="grid">
@@ -154,10 +195,10 @@ lang: en
     <h3><b>1‑hour</b> Session (Starter)</h3>
     <div class="promo"><span class="promo__tag">Launch promo</span><span class="promo__text"><b>€149</b> for the <b>first 500</b></span></div>
     <ul>
-      <li>rapid scope (goal + tools + constraints)</li>
-      <li>install + baseline configuration (local or VPS)</li>
-      <li><b>1 simple workflow</b> shipped</li>
-      <li>essential guardrails + “how to use” checklist</li>
+      <li><b>Outcome</b>: an operational assistant + contact channel</li>
+      <li><b>Outcome</b>: triage/prioritization + reply template (1 case)</li>
+      <li><b>Outcome</b>: <b>1 useful automation</b> (brief / follow‑up / reporting)</li>
+      <li><b>Outcome</b>: essential guardrails + takeover checklist</li>
     </ul>
   </div>
 
@@ -166,10 +207,10 @@ lang: en
     <h3>Setup <b>Standard</b></h3>
     <div class="mut">From <b>€499</b></div>
     <ul>
-      <li><b>2–3</b> high‑ROI workflows</li>
-      <li>integrations + guardrails + logs</li>
-      <li>basic templates + memory structure</li>
-      <li>handover (docs + short training)</li>
+      <li><b>Outcome</b>: <b>2–3 workflows</b> delivered (problem → solution)</li>
+      <li><b>Outcome</b>: logs + approval mode for risky actions</li>
+      <li><b>Outcome</b>: templates + structured memory (searchable)</li>
+      <li><b>Outcome</b>: handover (docs + short training)</li>
     </ul>
   </div>
 
@@ -177,9 +218,9 @@ lang: en
     <h3>Setup <b>Complete</b></h3>
     <div class="mut">From <b>€799</b></div>
     <ul>
-      <li><b>4–8</b> workflows + optimization</li>
-      <li>integrations + minimal permissions</li>
-      <li>templates + memory structure + SOP</li>
+      <li><b>Outcome</b>: <b>4–8 workflows</b> + optimization on real cases</li>
+      <li><b>Outcome</b>: minimal permissions + access separation</li>
+      <li><b>Outcome</b>: complete SOPs (usable by you/team)</li>
     </ul>
   </div>
 

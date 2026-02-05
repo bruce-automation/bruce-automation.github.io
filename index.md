@@ -58,6 +58,47 @@ lang: fr
 
   <div class="hr"></div>
 
+  <h2 class="h2">Résultats <span class="h2__mut">(observables dès la 1ère semaine)</span></h2>
+
+  <div class="grid metrics">
+    <div class="card metric">
+      <div class="metric__kpi">10–30 min/j</div>
+      <div class="mut">récupérées sur tri / relances / micro‑tâches (selon volume)</div>
+    </div>
+    <div class="card metric">
+      <div class="metric__kpi">0 suivi perdu</div>
+      <div class="mut">si vous validez le protocole : relance, date, propriétaire</div>
+    </div>
+    <div class="card metric">
+      <div class="metric__kpi">Brief en 2 min</div>
+      <div class="mut">quotidien/hebdo : décisions + prochaines actions</div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <h2 class="h2">Avant → Après <span class="h2__mut">(exemples)</span></h2>
+
+  <div class="grid cases">
+    <div class="card case">
+      <h3>Inbox & messages</h3>
+      <div class="case__row"><span class="case__label">Avant</span><span class="mut">30–80 messages en retard, réponses “à écrire”, aucune priorité.</span></div>
+      <div class="case__row"><span class="case__label">Après</span><span class="mut">Top 5 à traiter, drafts prêts, relances planifiées + logs.</span></div>
+    </div>
+    <div class="card case">
+      <h3>Réunions & docs</h3>
+      <div class="case__row"><span class="case__label">Avant</span><span class="mut">notes dispersées, décisions perdues, tâches oubliées.</span></div>
+      <div class="case__row"><span class="case__label">Après</span><span class="mut">compte‑rendu → actions, owner, deadlines + mémoire durable.</span></div>
+    </div>
+    <div class="card case">
+      <h3>Ops & reporting</h3>
+      <div class="case__row"><span class="case__label">Avant</span><span class="mut">pas de visibilité : “où ça en est ?” plusieurs fois par semaine.</span></div>
+      <div class="case__row"><span class="case__label">Après</span><span class="mut">brief auto + alertes : statut clair, blocages remontés.</span></div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
   <h2 class="h2">Problèmes résolus <span class="h2__mut">(concrets)</span></h2>
 
   <div class="grid">
@@ -154,10 +195,10 @@ lang: fr
     <h3>Session <b>1h</b> (Starter)</h3>
     <div class="promo"><span class="promo__tag">Promo lancement</span><span class="promo__text"><b>149€</b> pour les <b>500 premiers</b></span></div>
     <ul>
-      <li>cadrage express (objectif + outils + contraintes)</li>
-      <li>installation + configuration de base (local ou VPS)</li>
-      <li><b>1 workflow</b> simple mis en place</li>
-      <li>garde‑fous essentiels + checklist d’usage</li>
+      <li><b>Résultat</b> : un assistant opérationnel + canal de contact</li>
+      <li><b>Résultat</b> : tri/priorisation + modèle de réponse (1 cas)</li>
+      <li><b>Résultat</b> : <b>1 automation</b> utile (brief / relance / reporting)</li>
+      <li><b>Résultat</b> : garde‑fous essentiels + checklist de reprise</li>
     </ul>
   </div>
 
@@ -166,10 +207,10 @@ lang: fr
     <h3>Setup <b>Standard</b></h3>
     <div class="mut">À partir de <b>499€</b></div>
     <ul>
-      <li><b>2–3 workflows</b> à fort ROI</li>
-      <li>intégrations + garde‑fous + logs</li>
-      <li>templates + structure mémoire de base</li>
-      <li>handover (docs + formation courte)</li>
+      <li><b>Résultat</b> : <b>2–3 workflows</b> “problème → solution” livrés</li>
+      <li><b>Résultat</b> : logs + mode validation sur actions sensibles</li>
+      <li><b>Résultat</b> : templates + mémoire structurée (retrouvable)</li>
+      <li><b>Résultat</b> : handover (docs + formation courte)</li>
     </ul>
   </div>
 
@@ -177,9 +218,9 @@ lang: fr
     <h3>Setup <b>Complet</b></h3>
     <div class="mut">À partir de <b>799€</b></div>
     <ul>
-      <li><b>4–8 workflows</b> + optimisation</li>
-      <li>intégrations + permissions minimales</li>
-      <li>templates + structure mémoire + SOP</li>
+      <li><b>Résultat</b> : <b>4–8 workflows</b> + optimisation sur cas réels</li>
+      <li><b>Résultat</b> : permissions minimales + séparation des accès</li>
+      <li><b>Résultat</b> : SOP complètes (utilisable par vous/équipe)</li>
     </ul>
   </div>
 
