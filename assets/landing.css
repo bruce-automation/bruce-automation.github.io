@@ -26,7 +26,8 @@ a{color:inherit}
 
 /* Hero */
 .hero{position:relative;overflow:hidden;padding:26px 20px 18px;border:1px solid var(--bd);border-radius:20px;background:linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));box-shadow:0 24px 80px rgba(0,0,0,.55)}
-.hero:before{content:"";position:absolute;inset:-2px;pointer-events:none;background:radial-gradient(700px 260px at 25% 10%, rgba(34,211,238,.22), transparent 60%),radial-gradient(600px 240px at 82% 20%, rgba(167,139,250,.18), transparent 60%);mix-blend-mode:screen;opacity:.9}
+.hero{--mx:50%;--my:20%}
+.hero:before{content:"";position:absolute;inset:-2px;pointer-events:none;background:radial-gradient(700px 260px at var(--mx) var(--my), rgba(34,211,238,.22), transparent 60%),radial-gradient(600px 240px at calc(var(--mx) + 18%) calc(var(--my) + 10%), rgba(167,139,250,.18), transparent 60%);mix-blend-mode:screen;opacity:.9}
 .hero:after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg, transparent, rgba(255,255,255,.06), transparent);transform:translateX(-60%);opacity:.35}
 @media (prefers-reduced-motion:no-preference){
   .hero:after{animation:shine 10s ease-in-out infinite}
