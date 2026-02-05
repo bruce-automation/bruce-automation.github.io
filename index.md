@@ -1,14 +1,14 @@
 ---
 layout: landing
 title: "Assistant IA — installation clé en main"
-description: "Installation clé en main d’un assistant IA local (Mac mini) ou VPS : automatisations, intégrations, garde‑fous, logs et handover."
+description: "Installation clé en main d’un assistant IA local auto‑hébergé ou hébergé : automatisations, intégrations, garde‑fous, logs et handover."
 lang: fr
 ---
 
 <div class="wrap">
 
 <div class="hero">
-  <h1 class="h1">Assistant IA <b>installé pour vous</b> (Mac mini local ou VPS) — pour automatiser le travail qui vous ralentit</h1>
+  <h1 class="h1">Assistant IA <b>installé pour vous</b> (local auto‑hébergé ou hébergé) — pour automatiser le travail qui vous ralentit</h1>
   <p class="sub">Vous obtenez un système complet : interface type ChatGPT, mémoire durable, automatisations, intégrations à vos outils, garde‑fous et documentation. Objectif : moins de tri, moins d’oublis, plus d’exécution.</p>
 
   <div class="cols">
@@ -24,9 +24,9 @@ lang: fr
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
+        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20auto-h%C3%A9berg%C3%A9%20ou%20h%C3%A9berg%C3%A9%20%3A%20%5B%5D">Démarrer</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20auto-h%C3%A9berg%C3%A9%20ou%20h%C3%A9berg%C3%A9%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
       </div>
-      <p class="mini">Message : « Formule : Session 1h / Setup Standard / Setup Complet | Outils : … | Objectif : … | Local/VPS : … »</p>
+      <p class="mini">Message : « Formule : Session 1h / Setup Standard / Setup Complet | Outils : … | Objectif : … | Local auto‑hébergé / hébergé : … »</p>
     </div>
   </div>
 
@@ -177,7 +177,7 @@ lang: fr
   <h2 class="h2">Méthode <span class="h2__mut">(limiter le risque)</span></h2>
 
   <div class="kpi">
-  <div class="card"><b>1. Cadrage</b><br><span class="mut">Objectif + outils + contraintes (local/VPS).</span></div>
+  <div class="card"><b>1. Cadrage</b><br><span class="mut">Objectif + outils + contraintes (local auto‑hébergé / hébergé).</span></div>
   <div class="card"><b>2. Build</b><br><span class="mut">Automatisations + workflows + garde‑fous.</span></div>
   <div class="card"><b>3. Test</b><br><span class="mut">Cas réels + ajustements + validation.</span></div>
   <div class="card"><b>4. Handover</b><br><span class="mut">Docs + formation + plan de maintenance (option).</span></div>
@@ -239,7 +239,7 @@ lang: fr
 
 <section class="section" id="faq">
   <h2 class="h2">FAQ</h2>
-<b>Mac mini ou VPS ?</b> Local = confidentialité. VPS = accès partout. Hybride possible.
+<b>Local auto‑hébergé ou hébergé ?</b> Local = confidentialité/contrôle. Hébergé = accessible partout. Hybride possible.
 
 <b>Fiabilité ?</b> Système testable + logs + garde‑fous. Maintenance optionnelle.
 
@@ -253,7 +253,7 @@ lang: fr
 <section class="section" id="contact">
   <h2 class="h2">Réserver</h2>
   <div class="ctaRow">
-  <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
+  <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20auto-h%C3%A9berg%C3%A9%20ou%20h%C3%A9berg%C3%A9%20%3A%20%5B%5D">Démarrer sur Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20auto-h%C3%A9berg%C3%A9%20ou%20h%C3%A9berg%C3%A9%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
   </div>
 </section>
 

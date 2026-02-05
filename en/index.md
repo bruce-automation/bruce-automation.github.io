@@ -1,14 +1,14 @@
 ---
 layout: landing
 title: "Local/Hosted AI Assistant — done‑for‑you setup"
-description: "Done‑for‑you AI assistant installation (local Mac mini or VPS): automations, integrations, guardrails, logs, and handover."
+description: "Done‑for‑you AI assistant installation (local self‑hosted or hosted): automations, integrations, guardrails, logs, and handover."
 lang: en
 ---
 
 <div class="wrap">
 
 <div class="hero">
-  <h1 class="h1">A done‑for‑you <b>AI operator system</b> (local Mac mini or VPS) — to automate the work that slows you down</h1>
+  <h1 class="h1">A done‑for‑you <b>AI operator system</b> (local self‑hosted or hosted) — to automate the work that slows you down</h1>
   <p class="sub">You get the full system: ChatGPT‑like UI, durable memory, automations, integrations to your tools, guardrails, logs, and handover docs. Goal: less triage, fewer misses, more execution.</p>
 
   <div class="cols">
@@ -24,9 +24,9 @@ lang: en
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">Start</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">(if it doesn’t open, click here)</a></small>
+        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20self-hosted%20or%20hosted%20%3A%20%5B%5D">Start</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20self-hosted%20or%20hosted%20%3A%20%5B%5D">(if it doesn’t open, click here)</a></small>
       </div>
-      <p class="mini">Message: “Package: 1‑hour Session / Standard Setup / Complete Setup | Tools: … | Goal: … | Local/VPS: …”</p>
+      <p class="mini">Message: “Package: 1‑hour Session / Standard Setup / Complete Setup | Tools: … | Goal: … | Self‑hosted / hosted: …”</p>
     </div>
   </div>
 
@@ -177,7 +177,7 @@ lang: en
   <h2 class="h2">Delivery method <span class="h2__mut">(reduce risk)</span></h2>
 
   <div class="kpi">
-  <div class="card"><b>1. Scope</b><br><span class="mut">Goal + tools + constraints (local/VPS).</span></div>
+  <div class="card"><b>1. Scope</b><br><span class="mut">Goal + tools + constraints (self‑hosted / hosted).</span></div>
   <div class="card"><b>2. Build</b><br><span class="mut">Automations + workflows + guardrails.</span></div>
   <div class="card"><b>3. Test</b><br><span class="mut">Real cases + adjustments + approval.</span></div>
   <div class="card"><b>4. Handover</b><br><span class="mut">Docs + training + optional care plan.</span></div>
@@ -239,7 +239,7 @@ lang: en
 
 <section class="section" id="faq">
   <h2 class="h2">FAQ</h2>
-<b>Mac mini or VPS?</b> Local = privacy. VPS = access anywhere. Hybrid possible.
+<b>Local self‑hosted or hosted?</b> Local = privacy/control. Hosted = access anywhere. Hybrid possible.
 
 <b>Reliability?</b> Testable system + logs + guardrails. Optional maintenance.
 
@@ -253,7 +253,7 @@ lang: en
 <section class="section" id="contact">
   <h2 class="h2">Book</h2>
   <div class="ctaRow">
-  <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">(if it doesn’t open, click here)</a></small>
+  <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20self-hosted%20or%20hosted%20%3A%20%5B%5D">Start on Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20self-hosted%20or%20hosted%20%3A%20%5B%5D">(if it doesn’t open, click here)</a></small>
   </div>
 </section>
 
