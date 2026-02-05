@@ -1,3 +1,8 @@
 title: "AI Assistant Setup"
 description: "Done-for-you local (Mac mini) or VPS AI assistant setup"
+url: "https://bruce-automation.github.io"
+lang: fr
+
 theme: minima
+plugins:
+  - jekyll-sitemap
