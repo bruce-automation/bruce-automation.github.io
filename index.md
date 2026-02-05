@@ -113,7 +113,7 @@ lang: fr
   <div class="grid">
   <div class="card">
     <h3>Session <b>1h</b> (Starter)</h3>
-    <div class="mut"><b>Promo lancement</b> — <b>149€</b> pour les <b>500 premiers</b></div>
+    <div class="promo"><span class="promo__tag">Promo lancement</span><span class="promo__text"><b>149€</b> pour les <b>500 premiers</b></span></div>
     <ul>
       <li>cadrage express (objectif + outils + contraintes)</li>
       <li>installation + configuration de base (local ou VPS)</li>

@@ -113,7 +113,7 @@ lang: en
   <div class="grid">
   <div class="card">
     <h3><b>1‑hour</b> Session (Starter)</h3>
-    <div class="mut"><b>Launch promo</b> — <b>€149</b> for the <b>first 500</b></div>
+    <div class="promo"><span class="promo__tag">Launch promo</span><span class="promo__text"><b>€149</b> for the <b>first 500</b></span></div>
     <ul>
       <li>rapid scope (goal + tools + constraints)</li>
       <li>install + baseline configuration (local or VPS)</li>
