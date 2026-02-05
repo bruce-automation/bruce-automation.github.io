@@ -73,6 +73,15 @@ a{color:inherit}
 .ribbon{position:absolute;top:12px;right:-46px;width:180px;text-align:center;transform:rotate(35deg);background:linear-gradient(135deg,var(--c2),var(--c));color:#061019;border:1px solid rgba(255,255,255,.18);box-shadow:0 18px 80px rgba(167,139,250,.12);padding:8px 0;border-radius:999px}
 .ribbon span{display:block;font-weight:1000;letter-spacing:.14em;text-transform:uppercase;font-size:.72rem}
 
+/* Subtle wow (respects reduced motion) */
+@media (prefers-reduced-motion:no-preference){
+  .ribbon{animation:ribbonPulse 2.8s ease-in-out infinite}
+  @keyframes ribbonPulse{
+    0%,100%{filter:brightness(1);box-shadow:0 18px 80px rgba(167,139,250,.12)}
+    50%{filter:brightness(1.12);box-shadow:0 22px 95px rgba(34,211,238,.16)}
+  }
+}
+
 /* Promo callout */
 .promo{display:flex;align-items:center;justify-content:flex-start;gap:10px;flex-wrap:wrap;margin:8px 0 10px 0;padding:10px 12px;border:1px solid rgba(34,211,238,.28);border-radius:14px;background:radial-gradient(600px 120px at 20% 30%, rgba(34,211,238,.16), transparent 65%),linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));box-shadow:0 14px 60px rgba(34,211,238,.08)}
 .promo__tag{display:inline-flex;align-items:center;font-weight:950;font-size:.78rem;letter-spacing:.10em;text-transform:uppercase;color:#061019;background:linear-gradient(135deg,var(--c),var(--c2));padding:6px 10px;border-radius:999px}
