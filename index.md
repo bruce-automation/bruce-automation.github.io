@@ -111,7 +111,8 @@ lang: fr
   <h2 class="h2">Offres</h2>
 
   <div class="grid">
-  <div class="card">
+  <div class="card card--starter">
+    <div class="ribbon"><span>500 places</span></div>
     <h3>Session <b>1h</b> (Starter)</h3>
     <div class="promo"><span class="promo__tag">Promo lancement</span><span class="promo__text"><b>149€</b> pour les <b>500 premiers</b></span></div>
     <ul>
