@@ -49,7 +49,7 @@ title: "Local/Hosted AI Assistant — done-for-you setup"
       <div class="ctaRow">
         <a class="btn" href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">Start</a>
       </div>
-      <p class="mini">Message: “Package: 7‑day Sprint / Full setup | Tools: … | Goal: … | Local/VPS: …”</p>
+      <p class="mini">Message: “Package: 1‑hour Session / Standard Setup / Complete Setup | Tools: … | Goal: … | Local/VPS: …”</p>
     </div>
   </div>
 
