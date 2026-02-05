@@ -1,34 +1,9 @@
 ---
-layout: page
+layout: landing
 title: "Assistant IA — installation clé en main"
+description: "Installation clé en main d’un assistant IA local (Mac mini) ou VPS : automatisations, intégrations, garde‑fous, logs et handover."
+lang: fr
 ---
-
-[English version →](/en/)
-
-<style>
-  :root{--c:#0ea5e9;--bd:#e5e7eb;--tx:#0b1220;--mut:#475569;--bg:#ffffff;--bg2:#f8fafc;}
-  .wrap{color:var(--tx)}
-  .hero{padding:18px 18px 14px;border:1px solid var(--bd);border-radius:18px;background:linear-gradient(180deg,var(--bg),var(--bg2));}
-  .h1{margin:0 0 10px 0;letter-spacing:-.02em}
-  .sub{margin:0 0 14px 0;color:var(--mut);font-size:1.02rem;line-height:1.55}
-  .bul{margin:0 0 10px 18px;color:var(--tx)}
-  .ctaRow{display:flex;gap:12px;flex-wrap:wrap;margin:14px 0 2px 0;align-items:center}
-  .btn{display:inline-block;background:var(--c);color:#fff;padding:14px 20px;border-radius:12px;text-decoration:none;font-weight:900}
-  .btn:visited{color:#fff}
-  .mini{margin:6px 0 0 0;color:var(--mut);font-size:.92rem}
-  .pills{margin:12px 0 0 0}
-  .pill{display:inline-block;padding:4px 10px;border-radius:999px;background:#eef2f7;border:1px solid #e6ebf2;margin:0 8px 8px 0;font-size:.9rem;color:#0f172a}
-  .hr{height:1px;background:var(--bd);margin:18px 0}
-  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
-  .card{border:1px solid var(--bd);border-radius:16px;padding:14px;background:#fff}
-  .card h3{margin:0 0 8px 0}
-  .mut{color:var(--mut)}
-  .kpi{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
-  .kpi .card{background:#fff}
-  .kpi b{font-size:1.02rem}
-  .cols{display:grid;grid-template-columns:1.2fr .8fr;gap:14px}
-  @media (max-width: 860px){.cols{grid-template-columns:1fr}}
-</style>
 
 <div class="wrap">
 
