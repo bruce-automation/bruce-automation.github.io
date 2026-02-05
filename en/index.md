@@ -14,10 +14,10 @@ lang: en
   <div class="cols">
     <div>
       <ul class="bul">
-        <li><b>Inbox / messaging</b>: triage, prioritization, draft replies, follow‑ups</li>
-        <li><b>Ops</b>: tasks, reminders, daily/weekly reporting</li>
-        <li><b>Content & docs</b>: summaries, meeting notes → actions</li>
-        <li><b>E‑commerce</b>: support, product pages, emails, reporting</li>
+        <li><b>You waste time</b> triaging/rewriting → <b>prioritized</b> + drafts ready to send</li>
+        <li><b>Follow‑ups slip</b> → reminders, tasks and deadlines <b>kept</b></li>
+        <li><b>Knowledge is scattered</b> → notes, docs, decisions <b>centralized</b></li>
+        <li><b>Risky actions</b> → <b>guardrails</b> + approval before send/publish</li>
       </ul>
     </div>
     <div class="card">
@@ -37,6 +37,44 @@ lang: en
     <span class="pill">Handover + docs</span>
   </div>
 </div>
+
+<section class="section" id="impact">
+  <h2 class="h2">Value <span class="h2__mut">(what you gain)</span></h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Less mental load</h3>
+      <div class="mut">No more “remember to remember”. The assistant keeps the list, context, and follow‑ups.</div>
+    </div>
+    <div class="card">
+      <h3>Faster decisions</h3>
+      <div class="mut">Summaries + key points + next actions → decisions in minutes, not hours.</div>
+    </div>
+    <div class="card">
+      <h3>Automation without losing control</h3>
+      <div class="mut">Approval mode + minimal permissions + logs → safe, auditable execution.</div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <h2 class="h2">Problems solved <span class="h2__mut">(concrete)</span></h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Overwhelming inbox</h3>
+      <div class="mut">Triage, prioritization, drafts, standard replies, and conversation follow‑ups.</div>
+    </div>
+    <div class="card">
+      <h3>Fragile “scripts”</h3>
+      <div class="mut">Robust automations + SOP playbooks: what works, what breaks, and how to recover.</div>
+    </div>
+    <div class="card">
+      <h3>No visibility</h3>
+      <div class="mut">Daily/weekly brief, reporting, alerts — always know what’s going on.</div>
+    </div>
+  </div>
+</section>
 
 <div class="hr"></div>
 

@@ -14,10 +14,10 @@ lang: fr
   <div class="cols">
     <div>
       <ul class="bul">
-        <li><b>Inbox / messages</b> : tri, priorisation, réponses draft, suivi</li>
-        <li><b>Ops</b> : tâches, relances, reporting quotidien/hebdo</li>
-        <li><b>Contenu & docs</b> : synthèses, notes de réunion → actions</li>
-        <li><b>E‑commerce</b> : SAV, fiches produit, emails, reporting</li>
+        <li><b>Vous perdez du temps</b> à trier/relire → <b>priorisation</b> + réponses prêtes</li>
+        <li><b>Vous oubliez des suivis</b> → relances, tâches et deadlines <b>tenues</b></li>
+        <li><b>La connaissance est dispersée</b> → notes, docs, décisions <b>centralisées</b></li>
+        <li><b>Les actions sensibles font peur</b> → <b>garde‑fous</b> + validation avant envoi</li>
       </ul>
     </div>
     <div class="card">
@@ -37,6 +37,44 @@ lang: fr
     <span class="pill">Handover + docs</span>
   </div>
 </div>
+
+<section class="section" id="impact">
+  <h2 class="h2">La plus‑value <span class="h2__mut">(ce que vous gagnez)</span></h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Moins de charge mentale</h3>
+      <div class="mut">Plus besoin de “se souvenir de se souvenir”. L’assistant tient la liste, le contexte et les relances.</div>
+    </div>
+    <div class="card">
+      <h3>Décisions plus rapides</h3>
+      <div class="mut">Résumés + points clés + prochaines actions → vous tranchez en minutes, pas en heures.</div>
+    </div>
+    <div class="card">
+      <h3>Exécution sans risque</h3>
+      <div class="mut">Mode validation + permissions minimales + logs → automatiser sans perdre le contrôle.</div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+
+  <h2 class="h2">Problèmes résolus <span class="h2__mut">(concrets)</span></h2>
+
+  <div class="grid">
+    <div class="card">
+      <h3>Inbox ingérable</h3>
+      <div class="mut">Tri, priorisation, drafts, réponses standardisées, suivi des conversations.</div>
+    </div>
+    <div class="card">
+      <h3>Workflows bricolés</h3>
+      <div class="mut">Automatisations robustes + playbooks (SOP) : ce qui marche, ce qui casse, comment reprendre.</div>
+    </div>
+    <div class="card">
+      <h3>Manque de visibilité</h3>
+      <div class="mut">Brief quotidien/hebdo, reporting, alertes — vous savez “où ça en est” à tout moment.</div>
+    </div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
