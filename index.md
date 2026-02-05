@@ -40,9 +40,10 @@ lang: fr
 
 <div class="hr"></div>
 
-## Ce qui est livré (précis)
+<section class="section" id="livrables">
+  <h2 class="h2">Ce qui est livré <span class="h2__mut">(précis)</span></h2>
 
-<div class="grid">
+  <div class="grid">
   <div class="card">
     <h3>1) Base opérationnelle</h3>
     <ul>
@@ -75,35 +76,41 @@ lang: fr
       <li>formation courte</li>
     </ul>
   </div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## Pour qui (cas d’usage)
+<section class="section" id="pour-qui">
+  <h2 class="h2">Pour qui <span class="h2__mut">(cas d’usage)</span></h2>
 
-<div class="grid">
+  <div class="grid">
   <div class="card"><h3>Solopreneurs / créateurs</h3><div class="mut">Brief quotidien, rédaction, veille → décisions + actions.</div></div>
   <div class="card"><h3>Freelances / agences</h3><div class="mut">Briefs, comptes‑rendus, relances, standardisation livraison.</div></div>
   <div class="card"><h3>E‑commerce</h3><div class="mut">SAV, fiches produit, emails (abandon panier), reporting stock/marge.</div></div>
   <div class="card"><h3>Équipes tech</h3><div class="mut">Docs/runbooks, PR support, synthèses incidents, rituels automatisés.</div></div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## Méthode (pour limiter le risque)
+<section class="section" id="methode">
+  <h2 class="h2">Méthode <span class="h2__mut">(limiter le risque)</span></h2>
 
-<div class="kpi">
+  <div class="kpi">
   <div class="card"><b>1. Cadrage</b><br><span class="mut">Objectif + outils + contraintes (local/VPS).</span></div>
   <div class="card"><b>2. Build</b><br><span class="mut">Automatisations + workflows + garde‑fous.</span></div>
   <div class="card"><b>3. Test</b><br><span class="mut">Cas réels + ajustements + validation.</span></div>
   <div class="card"><b>4. Handover</b><br><span class="mut">Docs + formation + plan de maintenance (option).</span></div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## Offres
+<section class="section" id="offres">
+  <h2 class="h2">Offres</h2>
 
-<div class="grid">
+  <div class="grid">
   <div class="card">
     <h3>Session <b>1h</b> (Starter)</h3>
     <div class="mut"><b>Promo lancement</b> — <b>149€</b> pour les <b>500 premiers</b></div>
@@ -115,7 +122,8 @@ lang: fr
     </ul>
   </div>
 
-  <div class="card">
+  <div class="card card--featured">
+    <div class="badge">Recommandé</div>
     <h3>Setup <b>Standard</b></h3>
     <div class="mut">À partir de <b>499€</b></div>
     <ul>
@@ -144,21 +152,29 @@ lang: fr
       <li>monitoring + support</li>
     </ul>
   </div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## FAQ
+<section class="section" id="faq">
+  <h2 class="h2">FAQ</h2>
 <b>Mac mini ou VPS ?</b> Local = confidentialité. VPS = accès partout. Hybride possible.
 
 <b>Fiabilité ?</b> Système testable + logs + garde‑fous. Maintenance optionnelle.
 
 <b>Contrôle ?</b> Mode validation avant action.
 
+
+</section>
+
 <div class="hr"></div>
 
-<div class="ctaRow">
+<section class="section" id="contact">
+  <h2 class="h2">Réserver</h2>
+  <div class="ctaRow">
   <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
-</div>
+  </div>
+</section>
 
 </div>

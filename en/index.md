@@ -40,9 +40,10 @@ lang: en
 
 <div class="hr"></div>
 
-## What’s delivered (specific)
+<section class="section" id="deliverables">
+  <h2 class="h2">What’s delivered <span class="h2__mut">(specific)</span></h2>
 
-<div class="grid">
+  <div class="grid">
   <div class="card">
     <h3>1) Operational base</h3>
     <ul>
@@ -75,35 +76,41 @@ lang: en
       <li>short training</li>
     </ul>
   </div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## Who it’s for (use cases)
+<section class="section" id="use-cases">
+  <h2 class="h2">Who it’s for <span class="h2__mut">(use cases)</span></h2>
 
-<div class="grid">
+  <div class="grid">
   <div class="card"><h3>Solopreneurs / creators</h3><div class="mut">Daily brief, writing, research → decisions + actions.</div></div>
   <div class="card"><h3>Freelancers / agencies</h3><div class="mut">Briefs, meeting → tasks, follow‑ups, delivery standardization.</div></div>
   <div class="card"><h3>E‑commerce</h3><div class="mut">Support, product pages, cart‑abandon emails, stock/margin reporting.</div></div>
   <div class="card"><h3>Tech teams</h3><div class="mut">Docs/runbooks, PR support, incident summaries, automated rituals.</div></div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## Delivery method (to reduce risk)
+<section class="section" id="method">
+  <h2 class="h2">Delivery method <span class="h2__mut">(reduce risk)</span></h2>
 
-<div class="kpi">
+  <div class="kpi">
   <div class="card"><b>1. Scope</b><br><span class="mut">Goal + tools + constraints (local/VPS).</span></div>
   <div class="card"><b>2. Build</b><br><span class="mut">Automations + workflows + guardrails.</span></div>
   <div class="card"><b>3. Test</b><br><span class="mut">Real cases + adjustments + approval.</span></div>
   <div class="card"><b>4. Handover</b><br><span class="mut">Docs + training + optional care plan.</span></div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## Offers
+<section class="section" id="pricing">
+  <h2 class="h2">Offers</h2>
 
-<div class="grid">
+  <div class="grid">
   <div class="card">
     <h3><b>1‑hour</b> Session (Starter)</h3>
     <div class="mut"><b>Launch promo</b> — <b>€149</b> for the <b>first 500</b></div>
@@ -115,7 +122,8 @@ lang: en
     </ul>
   </div>
 
-  <div class="card">
+  <div class="card card--featured">
+    <div class="badge">Recommended</div>
     <h3>Setup <b>Standard</b></h3>
     <div class="mut">From <b>€499</b></div>
     <ul>
@@ -144,21 +152,29 @@ lang: en
       <li>monitoring + support</li>
     </ul>
   </div>
-</div>
+  </div>
+</section>
 
 <div class="hr"></div>
 
-## FAQ
+<section class="section" id="faq">
+  <h2 class="h2">FAQ</h2>
 <b>Mac mini or VPS?</b> Local = privacy. VPS = access anywhere. Hybrid possible.
 
 <b>Reliability?</b> Testable system + logs + guardrails. Optional maintenance.
 
 <b>Control?</b> Approval gates.
 
+
+</section>
+
 <div class="hr"></div>
 
-<div class="ctaRow">
+<section class="section" id="contact">
+  <h2 class="h2">Book</h2>
+  <div class="ctaRow">
   <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">Start on Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Preferred%20package%20%3A%20%5B1-hour%20Session%20%2F%20Standard%20Setup%20%2F%20Complete%20Setup%5D%0ATools%20%3A%20%5B%5D%0AGoal%20%3A%20%5B%5D%0ALocal%20or%20VPS%20%3A%20%5B%5D">(if it doesn’t open, click here)</a></small>
-</div>
+  </div>
+</section>
 
 </div>
