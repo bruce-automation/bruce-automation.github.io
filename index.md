@@ -49,7 +49,7 @@ title: "Assistant IA — installation clé en main"
       <h3>Contact</h3>
       <div class="mut">Telegram</div>
       <div class="ctaRow">
-        <a class="btn" href="https://t.me/share/url?url=&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a>
+        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
       </div>
       <p class="mini">Message : « Formule : Session 1h / Setup Standard / Setup Complet | Outils : … | Objectif : … | Local/VPS : … »</p>
     </div>
@@ -183,7 +183,7 @@ title: "Assistant IA — installation clé en main"
 <div class="hr"></div>
 
 <div class="ctaRow">
-  <a class="btn" href="https://t.me/share/url?url=&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a>
+  <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">Démarrer sur Telegram</a><br><small class="mini"><a href="https://t.me/BruceWaaynee?text=Formule%20souhait%C3%A9e%20%3A%20%5BSession%201h%20%2F%20Setup%20Standard%20%2F%20Setup%20Complet%5D%0AOutils%20%3A%20%5B%5D%0AObjectif%20%3A%20%5B%5D%0ALocal%20ou%20VPS%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
 </div>
 
 </div>
