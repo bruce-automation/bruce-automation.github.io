@@ -1,0 +1,12 @@
+# SEO Idea queue
+# status: queued|briefed|drafting|ready|published|parked
+- id: IDEA-0001
+  title: "Comment trouver 200 mots-clés long-tail en 30 minutes (sans outils payants)"
+  audience: "Bloggers / solopreneurs"
+  category: "SEO"
+  angle: "Process simple + scoring + exemples"
+  keywords: ["long tail", "keyword research", "seo"]
+  priority: 1
+  status: queued
+  notes: "Inclure SERP review + mapping intent"
+  created_at: "2026-02-07"

@@ -1,0 +1,20 @@
+name: Content checks
+on:
+  pull_request:
+    paths:
+      - "_posts/**"
+      - "scripts/**"
+      - "content/**"
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install pyyaml
+      - name: Validate front matter
+        run: python scripts/validate_frontmatter.py

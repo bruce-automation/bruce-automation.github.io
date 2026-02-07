@@ -18,6 +18,6 @@ lang: fr
     <p>Certains liens mènent vers des services externes (ex. Telegram). Ces services ont leurs propres politiques de confidentialité.</p>
 
     <h2>Contact</h2>
-    <p>Pour toute question : <a class="link" href="https://t.me/BruceWaaynee">DM Telegram</a>.</p>
+    <p>Pour toute question : <a class="link" href="/contact/">contact</a>.</p>
   </div>
 </section>

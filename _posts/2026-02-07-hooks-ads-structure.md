@@ -1,13 +1,13 @@
 ---
 title: "7 structures de hooks qui marchent (et comment les décliner)"
-description: "Des structures simples pour ouvrir une ad Meta/TikTok en 1–2 secondes. L’objectif : créer l’arrêt de scroll sans surpromettre."
+description: "Des structures simples pour ouvrir un contenu en 1–2 secondes. Objectif : créer l’arrêt de scroll et installer une tension claire."
 date: 2026-02-07
 categories: [guides]
-tags: [hooks, creative, meta, tiktok]
+tags: [hooks, copywriting, creative]
 lang: fr
 ---
 
-La plupart des ads “meurent” avant 2 secondes. Pas parce que le montage est nul — parce que l’**ouverture** n’installe pas une tension claire.
+La plupart des contenus “meurent” avant 2 secondes. Pas parce que le montage est nul — parce que l’**ouverture** n’installe pas une tension claire.
 
 ## 1) Le “contraire de ce qu’on pense”
 > « Le problème, ce n’est pas X. C’est Y. »
@@ -22,7 +22,7 @@ Déclinaisons :
 Important : une **preuve visuelle** dès l’ouverture.
 
 ## 3) Le résultat en premier
-> « Voilà le résultat en 14 jours… »
+> « Voilà le résultat… »
 
 Ne vends pas le rêve : montre un résultat crédible, puis explique le mécanisme.
 
@@ -42,18 +42,16 @@ But : parler *à la bonne personne*.
 Parfait pour décliner en variations (raison 1/2/3).
 
 ## 7) L’objection frontale
-> « Non, ce n’est pas trop cher — voilà ce que tu compares mal. »
+> « Non, ce n’est pas X — voilà ce que tu compares mal. »
 
 Ça marche si tu as une vraie explication (valeur, durée, usage, coût par utilisation).
 
 ---
 
-### Comment décliner sans répéter la même vidéo
+### Comment décliner sans répéter le même contenu
 Tu gardes le **même body**, tu changes :
 - hook (structure)
 - preuve (avis vs démo vs chiffres)
 - CTA (soft vs direct)
 
-Si tu veux : je peux te livrer un lot de hooks + angles + scripts “prêts à tourner” et décliner les versions.
-
-- Offre : [Créas performance livrées en 48h](/creas-48h/)
+(Article à rafraîchir : j’ajouterai des exemples concrets + une grille de scoring.)

@@ -1,54 +1,59 @@
 ---
-title: "Brief créa 48h : la checklist (pour éviter les allers-retours)"
-description: "Le minimum viable pour produire un lot de créas testables rapidement : angles, preuves, assets, contraintes, KPI."
+title: "Brief d’article SEO : la checklist (pour publier vite sans baisser la qualité)"
+description: "Le minimum viable pour produire des articles qui rank : intent, angle, structure, sources, originalité, maillage interne."
 date: 2026-02-07
 categories: [templates]
-tags: [brief, performance, meta, tiktok]
+tags: [seo, content, brief, process]
 lang: fr
 ---
 
-Un bon brief n’est pas “un doc long”. C’est **les bons inputs**, au bon format, pour itérer vite.
+Un bon brief n’est pas “un doc long”. C’est **les bons inputs** pour écrire vite *et* viser la bonne intention de recherche.
 
-## 1) Le contexte (30 secondes)
-- Produit + prix + marge (ordre de grandeur)
-- Pays / langue / offer (promo, bundle…)
-- Objectif : **achat**, **lead**, **ATC**, **trafic**
+## 1) L’intention (1 phrase)
+- Informational : “comment…”, “guide…”, “exemples…”
+- Commercial : “meilleur…”, “vs…”, “alternatives…”
+- Transactionnel : “template…”, “checklist…”, “outil…”
 
-## 2) L’avatar + l’objection principale
-- Avatar : qui achète ? (ex. femmes 25–44, sport, postpartum…)
-- Objection #1 : *« trop cher / je n’y crois pas / pas pour moi »*
+> Une URL = une intention principale.
 
-## 3) Les preuves (ce qui fait “croire”)
-- Avis (même 3–5)
-- UGC existant / créateur dispo / facecam possible ?
-- Avant/après, démo, unboxing, chiffres, screenshots
+## 2) Le mot-clé principal + 5 secondaires
+- 1 primary keyword (exact)
+- 3–8 secondaires (variantes / sous-intentions)
 
-## 4) Les assets disponibles
-- Logo + charte
-- Photos produits / packshots
-- B‑roll (même brut iPhone)
-- Pages : PDP, FAQ, reviews
+## 3) La promesse (1 phrase)
+Ce que le lecteur saura faire en sortant.
 
-## 5) Les contraintes (à figer)
-- Format : 9:16 + déclinaisons (1:1 / 4:5)
-- Textes interdits / claims à éviter
-- Ton : premium / punchy / fun / calm
+## 4) Le plan (H2/H3)
+- 5–9 H2 max
+- chaque H2 répond à une sous-intention SERP
+- section “FAQ” si utile (questions réelles)
 
-## 6) Ce que tu veux tester (les variables)
-Choisir 1–2 axes max au départ :
-- Hooks (ouverture)
-- Angle (promesse)
-- Proof (preuve)
-- CTA (soft vs hard)
+## 5) Les sources (anti-hallucination)
+- docs officielles
+- pages pricing
+- études (si tu avances des chiffres)
 
-## 7) KPI et ce qui est “bon”
-- CPM attendu (range)
-- CTR link attendu
-- CPC / CPA cible
-- Période d’apprentissage (budget/jour)
+Règle : si tu ne peux pas sourcer, tu l’écris comme **retour d’expérience** et tu l’assumes.
+
+## 6) L’angle d’originalité
+Pourquoi cet article est différent ?
+- framework perso
+- checklist téléchargeable
+- exemples concrets
+- mini étude / dataset
+
+## 7) Maillage interne (obligatoire)
+Avant d’écrire, tu listes :
+- 1 page “hub” (pillar)
+- 2–5 articles frères
+- 1 page “money” (newsletter / tools / produit)
+
+## 8) CTA (1 seul, clair)
+Exemples :
+- s’abonner à la newsletter
+- télécharger un template
+- lire le hub
 
 ---
 
-Si tu veux aller vite : envoie-moi ce brief en DM Telegram + tes assets (Drive/Dropbox) et je te propose un lot testable.
-
-- Offre : [Créas performance livrées en 48h](/creas-48h/)
+Si tu veux industrialiser ça, le bon move est de faire : **idées → briefs → drafts → checks CI → publication planifiée**.
