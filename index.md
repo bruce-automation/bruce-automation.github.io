@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Articles"
-description: "Blog SEO : guides, templates et systèmes pour acquérir du trafic et le monétiser."
+description: "Guides et retours terrain sur l’IA, les agents IA et la tech."
 permalink: /
 lang: fr
 ---
@@ -9,9 +9,9 @@ lang: fr
 <section class="blog">
   <header class="blog__head">
     <h1 class="h1">Articles</h1>
-    <p class="sub">Objectif : publier vite, rank sur le long-tail, analyser, puis monétiser (affiliation → leads → produits).</p>
+    <p class="sub">Guides courts, checklists et retours terrain sur l’IA, les agents IA, l’automatisation et les outils.</p>
     <p style="margin-top:14px">
-      <a class="btn" href="/blog/">Voir tous les articles</a>
+      <a class="btn" href="/blog/">Parcourir</a>
       <span style="display:inline-block; width:10px"></span>
       <a class="btn2" href="/start-here/">Start here</a>
     </p>
