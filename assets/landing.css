@@ -154,7 +154,7 @@ a{color:inherit}
   right:0;
   bottom:-6px;
   height:2px;
-  background: linear-gradient(90deg, rgba(34,211,238,.65), rgba(167,139,250,.55), transparent);
+  background: linear-gradient(90deg, rgba(216,198,163,.62), rgba(122,90,248,.30), transparent);
   transform: scaleX(.12);
   transform-origin:left;
   opacity:.75;
@@ -553,31 +553,34 @@ ul li::marker{color: rgba(34,211,238,.55)}
   overflow:auto;
 }
 
-/* Scroll reveal (JS adds .reveal + toggles .is-revealed) */
+/* WOW: Scroll reveal */
 .reveal{
   opacity: 0;
-  transform: translateY(14px) scale(.99);
-  filter: blur(6px);
-  transition: opacity .70s cubic-bezier(.2,.8,.2,1), transform .70s cubic-bezier(.2,.8,.2,1), filter .70s cubic-bezier(.2,.8,.2,1);
+  transform: translateY(14px) scale(.992);
+  filter: blur(7px);
+  transition: opacity .52s cubic-bezier(.2,.8,.2,1), transform .52s cubic-bezier(.2,.8,.2,1), filter .52s cubic-bezier(.2,.8,.2,1);
   will-change: opacity, transform, filter;
 }
-.reveal.is-revealed{
-  opacity: 1;
-  transform: translateY(0) scale(1);
-  filter: blur(0);
-}
-.reveal.reveal--card{transition-duration: .62s}
-.reveal.reveal--delayed{transition-delay: .08s}
+.reveal.is-in{opacity: 1; transform: none; filter: none;}
+
+/* WOW: Spotlight + grain (desktop only) */
+.spotlight{position:fixed; inset:0; pointer-events:none; z-index:-1; opacity:.85; background: radial-gradient(320px 320px at var(--mx, 50%) var(--my, 24%), rgba(216,198,163,.10), transparent 66%);}
+@media (hover: none){.spotlight{display:none;}}
+.grain{position:fixed; inset:0; pointer-events:none; z-index:-1; opacity:.08; mix-blend-mode: overlay; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.55'/%3E%3C/svg%3E"); background-size: 180px 180px;}
+
+/* WOW: Featured plan shimmer border */
+.planShimmer{position:relative;}
+.planShimmer::before{content:""; position:absolute; inset:-1px; border-radius: inherit; padding:1px; background: conic-gradient(from 180deg, rgba(216,198,163,0), rgba(216,198,163,.55), rgba(122,90,248,.35), rgba(216,198,163,0)); -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask-composite: exclude; opacity: 0; transition: opacity 220ms ease; pointer-events:none;}
+.planShimmer:hover::before{opacity: 1; animation: spin 1.8s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg)}}
+
 @media (prefers-reduced-motion: reduce){
   .reveal{opacity:1; transform:none; filter:none; transition:none}
+  .planShimmer:hover::before{animation:none}
 }
 
 /* Accessibility */
-:focus-visible{
-  outline: 3px solid var(--c);
-  outline-offset: 3px;
-  box-shadow: 0 0 0 6px rgba(34,211,238,.14);
-}
+:focus-visible{outline: 3px solid rgba(216,198,163,.65); outline-offset: 3px; box-shadow: 0 0 0 6px rgba(216,198,163,.14);}
 a:hover, a:focus-visible{text-decoration: underline; text-decoration-thickness:2px; text-underline-offset:3px}
 .skip-link{position:absolute; left: 12px; top: 12px; padding: 10px 12px; border-radius: 10px; background: #fff; color: #070A12; font-weight: 900; transform: translateY(-200%); z-index:9999}
 .skip-link:focus,.skip-link:focus-visible{transform: translateY(0)}
