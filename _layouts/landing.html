@@ -9,6 +9,7 @@
     {%- include custom-head.html -%}
   </head>
   <body>
+    <a class="skip-link" href="#main">Skip to content</a>
     <header class="top">
       <div class="top__inner">
         <a class="brand" href="{{ '/' | relative_url }}">BRUCE // ALFRED</a>
@@ -23,7 +24,7 @@
       </div>
     </header>
 
-    <main class="main">
+    <main id="main" class="main">
       {{ content }}
     </main>
 

@@ -35,33 +35,6 @@ sitemap: true
   <p class="mini">*Après brief + assets complets. Si vous avez un timing plus serré : dites-le en DM.</p>
 </section>
 
-<section class="section" id="proof">
-  <h2 class="h2">Social proof <span class="h2__mut">(placeholders à remplacer)</span></h2>
-
-  <div class="grid">
-    <div class="card">
-      <h3>Logos (exemples)</h3>
-      <div class="mut">Ajoutez ici 4–8 logos (clients / marques / agences) — ou laissez vide si NDA.</div>
-      <div class="logoRow" aria-label="Emplacements logos">
-        <span class="logoPh">Logo</span><span class="logoPh">Logo</span><span class="logoPh">Logo</span><span class="logoPh">Logo</span>
-      </div>
-    </div>
-
-    <div class="card">
-      <h3>Témoignages (exemples)</h3>
-      <div class="quote">
-        <div class="quote__text">“On a pu relancer les tests créa sans perdre une semaine. Les hooks étaient directement actionnables.”</div>
-        <div class="quote__sig">— Prénom, Rôle (placeholder)</div>
-      </div>
-      <div class="quote">
-        <div class="quote__text">“Livraison propre, naming clair, et surtout : assez de variations pour tester.”</div>
-        <div class="quote__sig">— Prénom, Marque (placeholder)</div>
-      </div>
-      <div class="mini">Note : ces citations sont des <b>placeholders</b> tant qu’aucun témoignage n’est ajouté.</div>
-    </div>
-  </div>
-</section>
-
 <div class="hr"></div>
 
 <section class="section" id="packs">
@@ -70,7 +43,7 @@ sitemap: true
   <div class="grid pricing">
     <div class="card price">
       <h3>Starter</h3>
-      <div class="price__tag">490€ <span class="mut">(indicatif)</span></div>
+      <div class="price__tag">490€</div>
       <div class="mut"><b>Best for</b> : valider 2–3 angles sans sur-investir.</div>
       <ul class="list">
         <li><b>6 créas</b> (15–30s)</li>
@@ -79,14 +52,14 @@ sitemap: true
         <li>Nommage + exports propres</li>
       </ul>
       <div class="ctaRow">
-        <a class="btn2" href="#brief">Choisir Starter</a>
+        <a class="btn2" data-plausible="PackStarter" href="tg://resolve?domain=BruceWaaynee&text=Je%20prends%20le%20pack%20Starter%20(6%20cr%C3%A9as%20en%2048h).%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20(1%E2%80%933)%20%3A%20%5B%5D%0AObjections%20(3)%20%3A%20-%20%5B%5D%20-%20%5B%5D%20-%20%5B%5D%0ATiming%20%3A%20%5B%5D">Prendre Starter</a>
       </div>
     </div>
 
     <div class="card card--featured price">
       <div class="badge">Le + choisi</div>
       <h3>Growth</h3>
-      <div class="price__tag">890€ <span class="mut">(indicatif)</span></div>
+      <div class="price__tag">890€</div>
       <div class="mut"><b>Best for</b> : trouver un winner et augmenter le volume de tests.</div>
       <ul class="list">
         <li><b>12 créas</b></li>
@@ -95,13 +68,13 @@ sitemap: true
         <li><b>+ 6 cutdowns</b> (6–12s)</li>
       </ul>
       <div class="ctaRow">
-        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Je%20prends%20le%20pack%20Growth%20(12%20cr%C3%A9as%20en%2048h).%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20%3A%20%5B%5D">Prendre Growth</a>
+        <a class="btn" data-plausible="PackGrowth" href="tg://resolve?domain=BruceWaaynee&text=Je%20prends%20le%20pack%20Growth%20(12%20cr%C3%A9as%20en%2048h).%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20(1%E2%80%933)%20%3A%20%5B%5D%0AObjections%20(3)%20%3A%20-%20%5B%5D%20-%20%5B%5D%20-%20%5B%5D%0ATiming%20%3A%20%5B%5D">Prendre Growth</a>
       </div>
     </div>
 
     <div class="card price">
       <h3>Scale</h3>
-      <div class="price__tag">1290€ <span class="mut">(indicatif)</span></div>
+      <div class="price__tag">1290€</div>
       <div class="mut"><b>Best for</b> : nourrir l’account et réduire la fatigue créative.</div>
       <ul class="list">
         <li><b>20 créas</b></li>
@@ -110,7 +83,7 @@ sitemap: true
         <li><b>+ 10 cutdowns</b> + <b>5 variations CTA</b></li>
       </ul>
       <div class="ctaRow">
-        <a class="btn2" href="#brief">Choisir Scale</a>
+        <a class="btn2" data-plausible="PackScale" href="tg://resolve?domain=BruceWaaynee&text=Je%20prends%20le%20pack%20Scale%20(20%20cr%C3%A9as%20en%2048h).%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20(1%E2%80%933)%20%3A%20%5B%5D%0AObjections%20(3)%20%3A%20-%20%5B%5D%20-%20%5B%5D%20-%20%5B%5D%0ATiming%20%3A%20%5B%5D">Prendre Scale</a>
       </div>
     </div>
   </div>

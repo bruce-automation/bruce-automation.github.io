@@ -1,3 +1,22 @@
+<!-- Canonical -->
+{%- assign canonical = page.canonical | default: page.url | absolute_url -%}
+<link rel="canonical" href="{{ canonical }}">
+
+<!-- Hreflang (FR/EN) -->
+{%- if page.lang == "en" -%}
+  <link rel="alternate" hreflang="en" href="{{ "/en/" | absolute_url }}">
+  <link rel="alternate" hreflang="fr" href="{{ "/" | absolute_url }}">
+{%- else -%}
+  <link rel="alternate" hreflang="fr" href="{{ "/" | absolute_url }}">
+  <link rel="alternate" hreflang="en" href="{{ "/en/" | absolute_url }}">
+{%- endif -%}
+<link rel="alternate" hreflang="x-default" href="{{ "/" | absolute_url }}">
+
+<!-- Meta polish -->
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#070A12">
+<meta name="color-scheme" content="dark light">
+
 <!-- Favicons -->
 <link rel="icon" href="/assets/favicon/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" href="/assets/favicon/favicon-32.png" sizes="32x32">
@@ -7,6 +26,7 @@
 <!-- Open Graph / Twitter -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:locale" content="{% if page.lang == 'en' %}en_US{% else %}fr_FR{% endif %}">
 <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
 <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines | escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -16,21 +36,51 @@
 <meta name="twitter:description" content="{{ page.description | default: site.description | strip_newlines | escape }}">
 <meta name="twitter:image" content="{{ '/assets/img/og.png' | absolute_url }}">
 
+<!-- Structured data: ProfessionalService -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"ProfessionalService",
+  "name":"Bruce Automation",
+  "url":"{{ "/" | absolute_url }}",
+  "areaServed":"FR",
+  "inLanguage":"{{ page.lang | default: "fr" }}",
+  "description":"Création de créatifs publicitaires 9:16 orientés performance (Meta/TikTok) et installation d’assistant IA (option).",
+  "sameAs":["https://t.me/BruceWaaynee"]
+}
+</script>
+
+{%- if page.url == "/creas-48h/" -%}
+<!-- Structured data: FAQPage (best-effort) -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"FAQPage",
+  "mainEntity":[
+    {
+      "@type":"Question",
+      "name":"Combien de créas dans le lot ?",
+      "acceptedAnswer":{"@type":"Answer","text":"On fixe un périmètre clair au brief (concepts, variantes de hooks, déclinaisons). Objectif : un lot cohérent livrable en 48h ouvrées."}
+    },
+    {
+      "@type":"Question",
+      "name":"Et si je n’ai pas d’UGC ?",
+      "acceptedAnswer":{"@type":"Answer","text":"On peut partir d’assets existants (page produit, photos, avis) et/ou fournir des scripts UGC + guidelines pour votre créateur. On privilégie ce qui est exploitable immédiatement."}
+    },
+    {
+      "@type":"Question",
+      "name":"Vous garantissez des résultats ?",
+      "acceptedAnswer":{"@type":"Answer","text":"On garantit la qualité d’exécution et la conformité au brief (formats, specs, charte). La performance dépend aussi de l’offre, du pricing et du media buying."}
+    }
+  ]
+}
+</script>
+{%- endif -%}
+
+<!-- Performance hints -->
+<link rel="preconnect" href="https://plausible.io" crossorigin>
+<link rel="dns-prefetch" href="https://plausible.io">
+
 <!-- Tracking (Plausible). Note: requires a Plausible account to see stats. -->
 <script defer data-domain="bruce-automation.github.io" src="https://plausible.io/js/script.js"></script>
-<script>
-  // Track clicks on the Telegram CTA buttons (best-effort; no error if Plausible isn't configured)
-  (function(){
-    function track(){
-      try {
-        if (window.plausible) window.plausible('ContactTelegram');
-      } catch (e) {}
-    }
-    document.addEventListener('click', function(ev){
-      var a = ev.target && (ev.target.closest ? ev.target.closest('a') : null);
-      if (!a) return;
-      var href = a.getAttribute('href') || '';
-      if (href.startsWith('tg://') || href.includes('t.me/BruceWaaynee')) track();
-    }, {capture:true});
-  })();
-</script>
+<script defer src="{{ '/assets/js/cta-tracking.js' | relative_url }}"></script>
