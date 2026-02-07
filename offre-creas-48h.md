@@ -41,7 +41,7 @@ sitemap: true
   <h2 class="h2">Packs <span class="h2__mut">(clairs, orientés décision)</span></h2>
 
   <div class="grid pricing">
-    <div class="card price">
+    <div class="card card--starter price">
       <h3>Starter</h3>
       <div class="price__tag">490€</div>
       <div class="mut"><b>Best for</b> : valider 2–3 angles sans sur-investir.</div>
@@ -72,7 +72,7 @@ sitemap: true
       </div>
     </div>
 
-    <div class="card price">
+    <div class="card card--scale price">
       <h3>Scale</h3>
       <div class="price__tag">1290€</div>
       <div class="mut"><b>Best for</b> : nourrir l’account et réduire la fatigue créative.</div>
