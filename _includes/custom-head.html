@@ -46,7 +46,16 @@
 }
 </script>
 
-<!-- Analytics (recommended: Umami) -->
-{%- comment -%}
-<script defer src="https://YOUR-UMAMI-DOMAIN/script.js" data-website-id="YOUR_WEBSITE_ID"></script>
-{%- endcomment -%}
+{% if site.gsc and site.gsc.verification %}
+<meta name="google-site-verification" content="{{ site.gsc.verification }}">
+{% endif %}
+
+<!-- Analytics -->
+{% if site.umami and site.umami.src and site.umami.websiteId %}
+<script defer src="{{ site.umami.src }}" data-website-id="{{ site.umami.websiteId }}"></script>
+{% endif %}
+
+{% if site.ga4 and site.ga4.measurementId %}
+<script>window.__GA4_ID__={{ site.ga4.measurementId | jsonify }};</script>
+<script defer src="{{ '/assets/js/consent.js' | relative_url }}"></script>
+{% endif %}

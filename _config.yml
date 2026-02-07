@@ -24,6 +24,15 @@ defaults:
       layout: "post"
       author: "AI Agents Notes"
 
+# Analytics configuration (optional)
+# umami:
+#   src: "https://YOUR-UMAMI-DOMAIN/script.js"
+#   websiteId: "YOUR-WEBSITE-ID"
+# ga4:
+#   measurementId: "G-XXXXXXXXXX"
+# gsc:
+#   verification: "YOUR_GSC_VERIFICATION_TOKEN"
+
 exclude:
   - node_modules
   - vendor

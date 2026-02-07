@@ -112,6 +112,12 @@ body:after{
 
 a{color:inherit}
 
+/* Consent banner (only used when GA4 is enabled) */
+.consent{position:fixed; left:0; right:0; bottom:0; z-index:50; padding: 12px; background: rgba(0,0,0,.72); backdrop-filter: blur(10px); border-top: 1px solid rgba(255,255,255,.10)}
+.consent__inner{max-width: var(--max); margin: 0 auto; display:flex; gap: 12px; align-items:center; justify-content: space-between; flex-wrap: wrap}
+.consent__text{max-width: 72ch; font-size: 14px; opacity: .9}
+.consent__actions{display:flex; gap: 10px; align-items:center}
+
 /* Top bar */
 .top{
   position:sticky;
