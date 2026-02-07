@@ -1,0 +1,40 @@
+/* Blog/Article styling layered on top of landing.css (keeps the same premium theme). */
+
+.blog, .taxo, .article { max-width: 980px; margin: 0 auto; padding: 48px 16px 72px; }
+.blog__head, .taxo__head { margin-bottom: 22px; }
+
+.blog__grid { display: grid; grid-template-columns: repeat(12, 1fr); gap: 14px; margin-top: 18px; }
+.postCard { grid-column: span 12; border-radius: 18px; padding: 18px 16px; background: rgba(255,255,255,.04); border: 1px solid rgba(255,255,255,.08); box-shadow: 0 20px 60px rgba(0,0,0,.25); }
+@media (min-width: 860px){ .postCard { grid-column: span 6; padding: 18px; } }
+
+.postCard__title { margin: 0 0 8px; font-size: 20px; line-height: 1.25; letter-spacing: -0.01em; }
+.postCard__meta { margin: 0 0 10px; opacity: .85; font-size: 13px; }
+
+.pagination { margin-top: 22px; display:flex; gap: 12px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+
+.article__head { margin: 0 auto 22px; }
+.article__kicker { margin: 0 0 10px; }
+.article__title { margin: 0 0 10px; font-size: clamp(30px, 4vw, 46px); letter-spacing: -0.02em; }
+.article__desc { margin: 0 0 10px; opacity: .88; max-width: 68ch; }
+.article__meta { margin: 0; opacity: .8; font-size: 13px; display:flex; gap: 8px; flex-wrap: wrap; align-items:center; }
+
+.chip { display:inline-flex; align-items:center; gap:6px; padding: 4px 10px; border-radius: 999px; border: 1px solid rgba(255,255,255,.12); background: rgba(0,0,0,.20); text-decoration:none; }
+.chip--tag { background: rgba(122,90,248,.14); border-color: rgba(122,90,248,.28); }
+
+.prose { max-width: 72ch; }
+.prose :is(h2,h3){ scroll-margin-top: 90px; }
+.prose h2 { margin-top: 28px; font-size: 22px; }
+.prose h3 { margin-top: 22px; font-size: 18px; opacity: .95; }
+.prose p, .prose li { line-height: 1.75; }
+.prose ul { padding-left: 1.1em; }
+.prose code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: .95em; background: rgba(0,0,0,.25); padding: 2px 6px; border-radius: 8px; border: 1px solid rgba(255,255,255,.08); }
+.prose pre { background: rgba(0,0,0,.30); padding: 14px; border-radius: 16px; border: 1px solid rgba(255,255,255,.10); overflow:auto; }
+.prose blockquote { margin: 18px 0; padding: 10px 14px; border-left: 2px solid rgba(122,90,248,.6); background: rgba(122,90,248,.10); border-radius: 14px; }
+
+.related { margin-top: 34px; }
+.related__list { margin: 10px 0 0; padding-left: 1.1em; }
+
+.article__cta { margin-top: 34px; max-width: 72ch; }
+
+.taxo__item { margin: 26px 0; padding: 18px 16px; border-radius: 18px; background: rgba(255,255,255,.03); border: 1px solid rgba(255,255,255,.08); }
+.taxo__posts { margin: 0; padding-left: 1.1em; }

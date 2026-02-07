@@ -1,0 +1,30 @@
+{% assign related = "" | split: "" %}
+
+{% if page.tags %}
+  {% for p in site.posts %}
+    {% if p.url != page.url %}
+      {% assign overlap = 0 %}
+      {% for t in page.tags %}
+        {% if p.tags contains t %}
+          {% assign overlap = overlap | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+      {% if overlap > 0 %}
+        {% assign related = related | push: p %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% assign related = related | uniq | slice: 0, 5 %}
+
+{% if related.size > 0 %}
+<aside class="related">
+  <h2 class="h2">À lire ensuite</h2>
+  <ul class="related__list">
+    {% for p in related %}
+      <li><a class="link" href="{{ p.url | relative_url }}">{{ p.title }}</a> <span class="mut">— {{ p.date | date: "%Y-%m-%d" }}</span></li>
+    {% endfor %}
+  </ul>
+</aside>
+{% endif %}

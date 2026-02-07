@@ -1,0 +1,17 @@
+{% assign canonical = page.canonical_url | default: (site.url | append: page.url) %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "{{ canonical }}"},
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  {% if page.image %}
+  "image": ["{{ site.url }}{{ page.image }}"],
+  {% endif %}
+  "author": {"@type": "Person", "name": {{ page.author | default: site.author | default: 'Bruce' | jsonify }}},
+  "publisher": {"@type": "Organization", "name": {{ site.title | default: 'Bruce Automation' | jsonify }}}
+}
+</script>

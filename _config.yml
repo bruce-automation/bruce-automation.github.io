@@ -1,8 +1,29 @@
-title: "AI Assistant Setup"
-description: "Done-for-you local (Mac mini) or VPS AI assistant setup"
+title: "Bruce Automation"
+description: "Créas ads performance (Meta/TikTok) livrées en 48h + système créatif testable."
 url: "https://bruce-automation.github.io"
+baseurl: ""
 lang: fr
 
 theme: minima
+
+# Blog (GitHub Pages safe-mode)
+permalink: /blog/:categories/:title/
+paginate: 10
+paginate_path: "/blog/page/:num/"
+
 plugins:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Bruce"
+
+exclude:
+  - node_modules
+  - vendor

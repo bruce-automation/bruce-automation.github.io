@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+{% include jsonld_article.html %}
+
+<article class="article">
+  <header class="article__head">
+    <p class="article__kicker"><a class="link" href="{{ '/blog/' | relative_url }}">Articles</a></p>
+    <h1 class="article__title">{{ page.title }}</h1>
+    {% if page.description %}<p class="article__desc">{{ page.description }}</p>{% endif %}
+    <p class="article__meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+      {% if page.author %} · {{ page.author }}{% endif %}
+      {% if page.categories and page.categories.size > 0 %}
+        ·
+        {% for c in page.categories %}
+          <a class="chip" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a>
+        {% endfor %}
+      {% endif %}
+      {% if page.tags and page.tags.size > 0 %}
+        ·
+        {% for t in page.tags %}
+          <a class="chip chip--tag" href="{{ '/tags/' | relative_url }}#{{ t | slugify }}">#{{ t }}</a>
+        {% endfor %}
+      {% endif %}
+    </p>
+  </header>
+
+  <div class="article__content prose">
+    {{ content }}
+  </div>
+
+  {% include related_posts.html %}
+
+  <div class="article__cta">
+    <div class="card">
+      <h2 style="margin:0 0 8px">Besoin d’un lot de créas testables ?</h2>
+      <p class="mut" style="margin:0 0 14px">Je produis des lots “prêts à lancer” (hooks/angles/scripts + exports 9:16). Livraison 48h ouvrées.</p>
+      <a class="btn" data-plausible="CtaFromBlog" href="{{ '/creas-48h/' | relative_url }}">Voir l’offre 48h</a>
+      <span style="display:inline-block; width:10px"></span>
+      <a class="btn2" href="https://t.me/BruceWaaynee">DM Telegram</a>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<section class="taxo">
+  <header class="taxo__head">
+    <h1 class="h1">{{ page.title | default: 'Catégories' }}</h1>
+    <p class="sub">Les articles sont classés par intention (guides, templates, comparatifs…).</p>
+  </header>
+
+  {% assign all_cats = site.categories | sort %}
+  <div class="taxo__list">
+    {% for cat in all_cats %}
+      {% assign cat_name = cat[0] %}
+      {% assign posts = cat[1] %}
+      <div class="taxo__item" id="{{ cat_name | slugify }}">
+        <h2 class="h2" style="margin-bottom:10px">{{ cat_name }} <span class="mut">({{ posts.size }})</span></h2>
+        <ul class="taxo__posts">
+          {% for p in posts %}
+            <li><a class="link" href="{{ p.url | relative_url }}">{{ p.title }}</a> <span class="mut">— {{ p.date | date: "%Y-%m-%d" }}</span></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
+  </div>
+</section>
