@@ -1,143 +1,218 @@
 ---
-layout: default
+layout: landing
 title: "Créatifs UGC 9:16 en 48h"
 description: "Offre ultra-rapide de créas publicitaires 9:16 pour marques e-commerce (FR). Livraison 48h, packs Starter/Growth/Scale."
 permalink: /creas-48h/
+sitemap: true
 ---
 
-# Créatifs UGC 9:16 **livrés en 48h**
+<div class="wrap offer">
 
-Des **ads prêtes à scaler** (Meta/TikTok) : hooks agressifs, montage dynamique, sous-titres, structure conversion.
+<nav class="offerNav" aria-label="Navigation de la page">
+  <a class="offerNav__link" href="#packs">Packs</a>
+  <a class="offerNav__link" href="#process">Process</a>
+  <a class="offerNav__link" href="#faq">FAQ</a>
+  <a class="offerNav__btn" href="tg://resolve?domain=BruceWaaynee&text=Je%20veux%20des%20cr%C3%A9as%209%3A16%20livr%C3%A9es%20en%2048h.%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20%3A%20%5B%5D%0AObjections%20(3)%20%3A%20-%20%5B%5D%20-%20%5B%5D%20-%20%5B%5D%0AObjectif%20ads%20%3A%20%5BMeta%20%2F%20TikTok%5D%0ATiming%20%3A%20%5B%5D">DM Telegram</a>
+</nav>
 
-- **Format** : 9:16 (1080×1920)
-- **Livraison** : 48h ouvrées (après brief + assets)
-- **Idéal pour** : e-com DTC, drops “premium”, marques en relance ou en scale
+<section class="hero offerHero" id="top">
+  <h1 class="h1">Créatifs UGC 9:16 <b>livrés en 48h</b> — des ads prêtes à tester (Meta/TikTok)</h1>
+  <p class="sub">Hooks agressifs, structure conversion, sous-titres et exports propres. Objectif : <b>tester vite</b> (angles + hooks + scripts) et réduire la fatigue créative.</p>
 
-> Objectif : vous donner **des variations qui testent vite** (angles + hooks + scripts), pas “une jolie vidéo”.
+  <div class="ctaRow">
+    <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Je%20veux%20des%20cr%C3%A9as%209%3A16%20livr%C3%A9es%20en%2048h.%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20%3A%20%5B%5D%0AObjections%20(3)%20%3A%20-%20%5B%5D%20-%20%5B%5D%20-%20%5B%5D%0AObjectif%20ads%20%3A%20%5BMeta%20%2F%20TikTok%5D%0ATiming%20%3A%20%5B%5D">Démarrer sur Telegram</a>
+    <a class="btn2" href="#brief">Voir le brief express (2 min)</a>
+    <small class="mini"><a href="https://t.me/BruceWaaynee?text=Je%20veux%20des%20cr%C3%A9as%209%3A16%20livr%C3%A9es%20en%2048h.%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20%3A%20%5B%5D%0AObjections%20(3)%20%3A%20-%20%5B%5D%20-%20%5B%5D%20-%20%5B%5D%0AObjectif%20ads%20%3A%20%5BMeta%20%2F%20TikTok%5D%0ATiming%20%3A%20%5B%5D">(si ça ne s’ouvre pas, cliquer ici)</a></small>
+  </div>
 
----
+  <div class="pills">
+    <span class="pill"><b>Livraison</b> : 48h ouvrées*</span>
+    <span class="pill"><b>Format</b> : 9:16 (1080×1920)</span>
+    <span class="pill"><b>Pour</b> : e-com DTC / relance / scale</span>
+    <span class="pill">Cutdowns inclus (selon pack)</span>
+  </div>
 
-## Ce que vous recevez (standard)
+  <p class="mini">*Après brief + assets complets. Si vous avez un timing plus serré : dites-le en DM.</p>
+</section>
 
-- **Scripts** orientés performance (hook → problème → preuve → CTA)
-- **Montage** court, rythmé, cut toutes 0,5–1,5s
-- **Sous-titres** lisibles (style TikTok/Meta)
-- **Packaging** : nommage, exports, dossier organisé
-- **1:1 & 4:5** (si demandé) : recadrage léger inclus pour diffusion
+<section class="section" id="proof">
+  <h2 class="h2">Social proof <span class="h2__mut">(placeholders à remplacer)</span></h2>
 
-**Non inclus par défaut** : tournage UGC / voix-off pro / motion design avancé (possible en option).
+  <div class="grid">
+    <div class="card">
+      <h3>Logos (exemples)</h3>
+      <div class="mut">Ajoutez ici 4–8 logos (clients / marques / agences) — ou laissez vide si NDA.</div>
+      <div class="logoRow" aria-label="Emplacements logos">
+        <span class="logoPh">Logo</span><span class="logoPh">Logo</span><span class="logoPh">Logo</span><span class="logoPh">Logo</span>
+      </div>
+    </div>
 
----
+    <div class="card">
+      <h3>Témoignages (exemples)</h3>
+      <div class="quote">
+        <div class="quote__text">“On a pu relancer les tests créa sans perdre une semaine. Les hooks étaient directement actionnables.”</div>
+        <div class="quote__sig">— Prénom, Rôle (placeholder)</div>
+      </div>
+      <div class="quote">
+        <div class="quote__text">“Livraison propre, naming clair, et surtout : assez de variations pour tester.”</div>
+        <div class="quote__sig">— Prénom, Marque (placeholder)</div>
+      </div>
+      <div class="mini">Note : ces citations sont des <b>placeholders</b> tant qu’aucun témoignage n’est ajouté.</div>
+    </div>
+  </div>
+</section>
 
-## Packs (choisissez votre vitesse)
+<div class="hr"></div>
 
-### Starter — **Test rapide**
-Pour valider 2–3 angles sans sur-investir.
+<section class="section" id="packs">
+  <h2 class="h2">Packs <span class="h2__mut">(clairs, orientés décision)</span></h2>
 
-- **6 créas** (6× 15–30s)
-- **3 angles** (2 créas/angle)
-- **Hooks** : 6 variations
-- **1 aller-retour** (corrections mineures)
+  <div class="grid pricing">
+    <div class="card price">
+      <h3>Starter</h3>
+      <div class="price__tag">490€ <span class="mut">(indicatif)</span></div>
+      <div class="mut"><b>Best for</b> : valider 2–3 angles sans sur-investir.</div>
+      <ul class="list">
+        <li><b>6 créas</b> (15–30s)</li>
+        <li><b>3 angles</b> (2 créas/angle)</li>
+        <li><b>1 aller-retour</b> (corrections mineures)</li>
+        <li>Nommage + exports propres</li>
+      </ul>
+      <div class="ctaRow">
+        <a class="btn2" href="#brief">Choisir Starter</a>
+      </div>
+    </div>
 
-**Idéal** : nouveaux comptes ads, nouveaux produits, besoin de “quick wins”.
+    <div class="card card--featured price">
+      <div class="badge">Le + choisi</div>
+      <h3>Growth</h3>
+      <div class="price__tag">890€ <span class="mut">(indicatif)</span></div>
+      <div class="mut"><b>Best for</b> : trouver un winner et augmenter le volume de tests.</div>
+      <ul class="list">
+        <li><b>12 créas</b></li>
+        <li><b>4 angles</b></li>
+        <li><b>2 aller-retours</b></li>
+        <li><b>+ 6 cutdowns</b> (6–12s)</li>
+      </ul>
+      <div class="ctaRow">
+        <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Je%20prends%20le%20pack%20Growth%20(12%20cr%C3%A9as%20en%2048h).%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20%3A%20%5B%5D">Prendre Growth</a>
+      </div>
+    </div>
 
----
+    <div class="card price">
+      <h3>Scale</h3>
+      <div class="price__tag">1290€ <span class="mut">(indicatif)</span></div>
+      <div class="mut"><b>Best for</b> : nourrir l’account et réduire la fatigue créative.</div>
+      <ul class="list">
+        <li><b>20 créas</b></li>
+        <li><b>5 angles</b></li>
+        <li><b>2 aller-retours</b></li>
+        <li><b>+ 10 cutdowns</b> + <b>5 variations CTA</b></li>
+      </ul>
+      <div class="ctaRow">
+        <a class="btn2" href="#brief">Choisir Scale</a>
+      </div>
+    </div>
+  </div>
 
-### Growth — **Machine à itération**
-Le pack pour trouver un winner et l’optimiser.
+  <div class="card note">
+    <h3>Ce qui est inclus (standard)</h3>
+    <div class="grid">
+      <div>
+        <ul class="list">
+          <li>Scripts orientés performance (hook → problème → preuve → CTA)</li>
+          <li>Montage court, cut toutes 0,5–1,5s</li>
+          <li>Sous-titres lisibles (style TikTok/Meta)</li>
+        </ul>
+      </div>
+      <div>
+        <ul class="list">
+          <li>Exports : MP4 H.264, 1080×1920, 24–30fps, audio normalisé</li>
+          <li>Dossier Drive organisé + nommage clair</li>
+          <li>Recadrage 1:1 / 4:5 (si demandé)</li>
+        </ul>
+      </div>
+    </div>
+    <div class="mini">Non inclus par défaut : tournage UGC / voix-off pro / motion design avancé (possible en option).</div>
+  </div>
+</section>
 
-- **12 créas**
-- **4 angles**
-- **Hooks** : 12 variations
-- **2 aller-retours**
-- **+ 6 cutdowns** (6–12s) pour tests hooks/retarget
+<div class="hr"></div>
 
-**Idéal** : vous dépensez déjà et vous voulez **augmenter le volume de tests**.
+<section class="section" id="process">
+  <h2 class="h2">Process <span class="h2__mut">(simple, carré)</span></h2>
 
----
+  <div class="grid">
+    <div class="card"><h3>1) Commande</h3><div class="mut">Validation du pack + créneau. Si besoin : ajustement scope/volumes.</div></div>
+    <div class="card"><h3>2) Brief express</h3><div class="mut">10 min : produit, USP, prix, objections, ton, exemples d’ads.</div></div>
+    <div class="card"><h3>3) Réception assets</h3><div class="mut">UGC/raw, images, brand kit, témoignages, liens utiles.</div></div>
+    <div class="card"><h3>4) Scripts + angles</h3><div class="mut">Angles d’achat + hooks + structure de chaque vidéo.</div></div>
+    <div class="card"><h3>5) Montage + exports</h3><div class="mut">Sous-titres, rythme, naming et variations (selon pack).</div></div>
+    <div class="card"><h3>6) Livraison</h3><div class="mut">Google Drive : créas + cutdowns + recommandations de tests.</div></div>
+  </div>
 
-### Scale — **Bibliothèque de winners**
-Pour nourrir l’account et réduire la fatigue créative.
+  <div class="mini">Timing : 48h ouvrées à partir du moment où le brief + assets sont complets.</div>
+</section>
 
-- **20 créas**
-- **5 angles**
-- **Hooks** : 20 variations
-- **2 aller-retours**
-- **+ 10 cutdowns** (6–12s)
-- **+ 5 variations CTA** (fin de vidéo)
+<div class="hr"></div>
 
-**Idéal** : 3k€/jour+ ou forte concurrence : besoin de **variations constantes**.
+<section class="section" id="brief">
+  <h2 class="h2">Brief express <span class="h2__mut">(à copier-coller en DM)</span></h2>
 
----
+  <div class="card">
+    <p class="mut">Envoyez ces 7 lignes, et je vous réponds avec : <b>pack recommandé</b> + <b>angles</b> + <b>planning</b>.</p>
 
-## Add-ons (optionnel)
+    <pre class="briefBox">Produit :
+Lien :
+Prix :
+USP (1–3) :
+Objections (3) :
+Ton / style (exemples) :
+Deadline / timing :</pre>
 
-- **Voix-off IA** (FR) / voix-off humaine (sur devis)
-- **Sourcing UGC creators** (casting + brief)
-- **Motion design léger** (prix/USP/avant-après visuel)
-- **Déclinaisons** : 1:1, 4:5, 16:9, multi-langue
+    <div class="ctaRow">
+      <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Produit%20%3A%0ALien%20%3A%0APrix%20%3A%0AUSP%20(1%E2%80%933)%20%3A%0AObjections%20(3)%20%3A%0ATon%20%2F%20style%20(exemples)%20%3A%0ADeadline%20%2F%20timing%20%3A">Envoyer le brief sur Telegram</a>
+      <small class="mini"><a href="https://t.me/BruceWaaynee?text=Produit%20%3A%0ALien%20%3A%0APrix%20%3A%0AUSP%20(1%E2%80%933)%20%3A%0AObjections%20(3)%20%3A%0ATon%20%2F%20style%20(exemples)%20%3A%0ADeadline%20%2F%20timing%20%3A">(lien web si nécessaire)</a></small>
+    </div>
 
----
+    <div class="mut"><b>Assets utiles</b> (si vous les avez) : raw UGC, packshots, avis clients, pages produit, best ads, angle/claims autorisés.</div>
+  </div>
+</section>
 
-## Process (simple, carré)
+<div class="hr"></div>
 
-1. **Commande + paiement**
-2. **Brief express (10 min)** : produit, USP, prix, objections, ton, exemples d’ads
-3. **Réception assets** : vidéos UGC/raw, images produit, brand kit, témoignages, pages/UGC existants
-4. **Écriture scripts + angles**
-5. **Montage + exports**
-6. **Livraison** (Google Drive) : créas + cutdowns + noms + suggestions de tests
+<section class="section" id="faq">
+  <h2 class="h2">FAQ</h2>
 
-**Timing** : 48h ouvrées **à partir du moment où** le brief + assets sont complets.
+  <div class="grid">
+    <div class="card">
+      <h3>Vous avez besoin de mes vidéos UGC ?</h3>
+      <div class="mut">Idéalement oui. Sinon : options possibles (stock + montage / sourcing créateurs).</div>
+    </div>
+    <div class="card">
+      <h3>Un “aller-retour”, c’est quoi ?</h3>
+      <div class="mut">Une liste de retours regroupés (texte, cut, sous-titres, CTA). Pas 15 micro-changements au fil de l’eau.</div>
+    </div>
+    <div class="card">
+      <h3>Combien de temps par vidéo ?</h3>
+      <div class="mut">En général 15–30s. Cutdowns : 6–12s.</div>
+    </div>
+    <div class="card">
+      <h3>Garanties ?</h3>
+      <div class="mut"><b>48h ouvrées</b> (hors retards de brief/assets) + correction immédiate si non conforme au format/exports.</div>
+    </div>
+  </div>
 
----
+  <div class="ctaRow" style="margin-top:16px">
+    <a class="btn" href="tg://resolve?domain=BruceWaaynee&text=Salut%20!%20Je%20veux%20des%20cr%C3%A9as%209%3A16%20en%2048h.%20Je%20t%E2%80%99envoie%20le%20brief%20ci-dessous%20%3A%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D%0AUSP%20%3A%20%5B%5D%0AObjections%20%3A%20%5B%5D">Réserver via Telegram</a>
+    <a class="btn2" href="/">Retour à l’accueil</a>
+  </div>
+</section>
 
-## Garanties (sans blabla)
+<!-- Sticky CTA (mobile) -->
+<div class="stickyCta" role="region" aria-label="Call to action">
+  <a class="stickyCta__btn" href="tg://resolve?domain=BruceWaaynee&text=Je%20veux%20des%20cr%C3%A9as%209%3A16%20livr%C3%A9es%20en%2048h.%0AProduit%20%3A%20%5B%5D%0ALien%20%3A%20%5B%5D%0APrix%20%3A%20%5B%5D">DM Telegram</a>
+  <a class="stickyCta__link" href="#brief">Brief</a>
+</div>
 
-### ✅ Garantie “48h ou gratuit”*
-Si on dépasse 48h ouvrées **sans raison côté client**, vous ne payez pas.
-
-### ✅ Garantie “Prêt à lancer”
-Si une créa n’est pas conforme au format (9:16, sous-titres, export), on corrige **immédiatement**.
-
-\*Hors retards de validation/brief/assets.
-
----
-
-## Ce qui fait la diff
-
-- **Angle-first** : on vend un *raisonnement d’achat*, pas un montage.
-- **Hooks en série** : vos tests gagnent (souvent) sur les 2 premières secondes.
-- **Pensé pour l’achat média** : lisibilité, rythme, punchlines, preuves.
-
----
-
-## FAQ
-
-**Vous avez besoin de mes vidéos UGC ?**  
-Oui, idéalement. Sinon : pack “stock + montage” possible, ou option sourcing créateurs.
-
-**Vous pouvez faire des “spec ads” si je n’ai pas d’assets ?**  
-Oui, sur niches non réglementées (voir idées ci-dessous). On reste clean : pas de claims médicaux.
-
-**C’est quoi un aller-retour ?**  
-Une liste de retours regroupés (texte, cut, sous-titres, CTA). Pas 15 micro-changements au fil de l’eau.
-
-**Combien de temps par vidéo ?**  
-En général **15–30s** (parfois 6–12s en cutdowns).
-
-**Vous pouvez gérer la diffusion (ads) ?**  
-Possible via partenaire/forfait séparé. Ici : **production créa**.
-
-**Quels livrables exacts ?**  
-MP4 H.264, 1080×1920, 24–30fps, audio normalisé. Dossier Drive + nommage clair.
-
----
-
-## Prêt à recevoir vos créas en 48h ?
-
-- Envoyez : **produit + lien + prix + USP + 3 objections + 3 ads que vous aimez**
-- Je vous réponds avec : pack recommandé + angles + planning
-
-**Contact** : (à compléter)  
-
+</div>

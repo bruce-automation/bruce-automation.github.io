@@ -11,6 +11,12 @@ lang: fr
   <h1 class="h1">Assistant IA <b>installé pour vous</b> (local auto‑hébergé ou hébergé) — pour automatiser le travail qui vous ralentit</h1>
   <p class="sub">Vous obtenez un système complet : interface type ChatGPT, mémoire durable, automatisations, intégrations à vos outils, garde‑fous et documentation. Objectif : moins de tri, moins d’oublis, plus d’exécution.</p>
 
+  <div class="ctaRow">
+    <a class="btn" href="/creas-48h/">Offre prioritaire : Créas UGC 9:16 en 48h</a>
+    <a class="btn2" href="#contact">Réserver un setup assistant IA</a>
+  </div>
+  <p class="mini">Deux offres distinctes : <a href="/creas-48h/">production créa</a> (ads 9:16) et <a href="#contact">installation d’assistant IA</a>.</p>
+
   <div class="cols">
     <div>
       <ul class="bul">
