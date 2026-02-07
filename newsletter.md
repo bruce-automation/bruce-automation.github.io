@@ -1,17 +1,15 @@
 ---
 layout: default
 title: "Newsletter"
-description: "Recevoir les nouveaux articles + le dashboard hebdo."
+description: "Get new articles and occasional updates."
 permalink: /newsletter/
-lang: fr
+lang: en
 ---
 
 <section class="blog">
   <h1 class="h1">Newsletter</h1>
-  <p class="sub">Une fois par semaine : sujets long‑tail, optimisations SEO (Search Console), et pistes monétisation.</p>
-
+  <p class="sub">Not live yet.</p>
   <div class="prose">
-    <p>Inscription à brancher (Buttondown / Beehiiv / ConvertKit…).</p>
-    <p class="mut">Je peux te configurer une page d’inscription propre + tracking Umami dès que tu choisis le provider.</p>
+    <p>This page will be connected to a provider (Buttondown / Beehiiv / ConvertKit). Once enabled, it will include a minimal form and a clear privacy notice.</p>
   </div>
 </section>

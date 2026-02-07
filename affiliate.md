@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "Affiliation"
-description: "Transparence : liens affiliés (si présents)."
+title: "Affiliate disclosure"
+description: "Transparency about affiliate links."
 permalink: /affiliate/
-lang: fr
+lang: en
 ---
 
 <section class="blog">
-  <h1 class="h1">Affiliation</h1>
+  <h1 class="h1">Affiliate disclosure</h1>
   <div class="prose">
-    <p>Par transparence : certains liens peuvent être des liens d’affiliation. Cela signifie que je peux percevoir une commission si vous achetez via ces liens — sans coût supplémentaire pour vous.</p>
-    <p>Je recommande uniquement des outils que j’utilise réellement ou que je juge pertinents pour le cas d’usage décrit.</p>
+    <p>Some links may be affiliate links. If you purchase through these links, the site may earn a commission at no additional cost to you.</p>
+    <p>Affiliate links are used selectively and disclosed near the first affiliate link in an article.</p>
   </div>
 </section>

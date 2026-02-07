@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "About"
-description: "À propos du site et des principes éditoriaux."
+description: "What this site is and how content is produced."
 permalink: /about/
-lang: fr
+lang: en
 ---
 
 <section class="blog">
   <h1 class="h1">About</h1>
   <div class="prose">
-    <p>Un blog sur la tech — avec un focus particulier sur <b>l’IA</b> et les <b>agents IA</b> : ce qui marche, ce qui casse, et comment construire proprement.</p>
+    <p>A tech blog with a focus on <b>AI</b> and <b>AI agents</b>: what works, what breaks, and how to build systems that hold up.</p>
 
-    <h2>Principes</h2>
+    <h2>Principles</h2>
     <ul>
-      <li><b>Clarté</b> : explications courtes + étapes actionnables.</li>
-      <li><b>Exactitude</b> : pas de chiffres inventés ; les claims “factuels” sont sourcés.</li>
-      <li><b>Transparence</b> : liens affiliés signalés quand ils existent.</li>
+      <li><b>Clarity</b>: short explanations + actionable steps.</li>
+      <li><b>Accuracy</b>: no made-up numbers; factual claims are sourced.</li>
+      <li><b>Transparency</b>: affiliate links are disclosed when present.</li>
     </ul>
 
-    <p>Contact : <a class="link" href="/contact/">/contact/</a>.</p>
+    <p>Contact: <a class="link" href="/contact/">/contact/</a>.</p>
   </div>
 </section>

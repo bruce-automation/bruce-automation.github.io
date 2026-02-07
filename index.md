@@ -1,17 +1,17 @@
 ---
 layout: default
 title: "Articles"
-description: "Guides et retours terrain sur l’IA, les agents IA et la tech."
+description: "Practical notes on AI, AI agents, and building reliable systems."
 permalink: /
-lang: fr
+lang: en
 ---
 
 <section class="blog">
   <header class="blog__head">
     <h1 class="h1">Articles</h1>
-    <p class="sub">Guides courts, checklists et retours terrain sur l’IA, les agents IA, l’automatisation et les outils.</p>
+    <p class="sub">Practical guides, checklists, and field notes on AI agents, automation, and systems.</p>
     <p style="margin-top:14px">
-      <a class="btn" href="/blog/">Parcourir</a>
+      <a class="btn" href="/blog/">Browse</a>
       <span style="display:inline-block; width:10px"></span>
       <a class="btn2" href="/start-here/">Start here</a>
     </p>
@@ -24,7 +24,7 @@ lang: fr
         <h2 class="postCard__title"><a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
         <p class="postCard__meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time></p>
         {% if post.description %}<p class="mut">{{ post.description }}</p>{% endif %}
-        <p style="margin:14px 0 0"><a class="btn2" href="{{ post.url | relative_url }}">Lire →</a></p>
+        <p style="margin:14px 0 0"><a class="btn2" href="{{ post.url | relative_url }}">Read →</a></p>
       </article>
     {% endfor %}
   </div>

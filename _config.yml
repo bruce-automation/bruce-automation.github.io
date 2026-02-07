@@ -1,8 +1,8 @@
 title: "AI Agents Notes"
-description: "Guides et retours terrain sur l’IA, les agents IA et la tech."
+description: "Practical notes on AI, AI agents, and building reliable systems."
 url: "https://bruce-automation.github.io"
 baseurl: ""
-lang: fr
+lang: en
 
 theme: minima
 
@@ -22,7 +22,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Bruce"
+      author: "AI Agents Notes"
 
 exclude:
   - node_modules

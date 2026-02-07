@@ -1,25 +1,25 @@
 ---
 layout: default
 title: "Editorial policy"
-description: "Règles de qualité, sources, disclosures et limites."
+description: "Quality rules, sources, disclosures, and limitations."
 permalink: /editorial-policy/
-lang: fr
+lang: en
 ---
 
 <section class="blog">
   <h1 class="h1">Editorial policy</h1>
   <div class="prose">
-    <h2>Qualité & exactitude</h2>
+    <h2>Quality & accuracy</h2>
     <ul>
-      <li>Pas de citations inventées.</li>
-      <li>Les claims “factuels” doivent être sourcés (docs officielles, pricing, études…).</li>
-      <li>Les opinions sont présentées comme telles.</li>
+      <li>No fabricated citations.</li>
+      <li>Factual claims should be backed by primary sources (official docs, pricing pages, reputable technical references).</li>
+      <li>Opinions are labeled as opinions.</li>
     </ul>
 
-    <h2>Affiliation / sponsoring</h2>
-    <p>Quand un article contient des liens affiliés, une mention apparaît à proximité du premier lien. Les sponsors n’influencent pas le contenu éditorial (si sponsoring il y a, c’est explicitement indiqué).</p>
+    <h2>Affiliate / sponsorship</h2>
+    <p>If an article contains affiliate links, a short disclosure appears near the first affiliate link. Sponsored content (if any) is clearly labeled and does not override editorial independence.</p>
 
-    <h2>Thèmes sensibles (YMYL)</h2>
-    <p>Le site évite les conseils médicaux / juridiques / financiers. Si un sujet touche une zone sensible, il est traité avec prudence et sources.</p>
+    <h2>Sensitive topics</h2>
+    <p>The site avoids medical / legal / financial advice. When a topic is adjacent to a sensitive area, it is treated conservatively and with sources.</p>
   </div>
 </section>
