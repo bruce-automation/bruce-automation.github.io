@@ -8,7 +8,7 @@ lang: fr
 <div class="wrap">
 
 <div class="hero">
-  <h1 class="h1">Des créas ads qui performent — <b>livrées en 48h</b></h1>
+  <h1 class="h1 maskText">Des créas ads qui performent — <b>livrées en 48h</b></h1>
   <p class="sub"><b>Studio créatif orienté performance pour e-commerce.</b> Des concepts clairs, des variantes prêtes à tester, un process simple.</p>
 
   <div class="pills">
@@ -59,6 +59,56 @@ lang: fr
       <h3>2) Production continue (mensuel)</h3>
       <div class="mut">Un flux régulier de nouvelles variations + itérations à partir des gagnantes.</div>
       <div class="mini" style="margin-top:12px">(Sur demande — on démarre souvent par un lot 48h.)</div>
+    </div>
+  </div>
+</section>
+
+<div class="hr"></div>
+
+<section class="section story" id="method">
+  <h2 class="h2">Comment ça marche <span class="h2__mut">(48h, sans friction)</span></h2>
+
+  <div class="story__grid">
+    <div class="story__sticky">
+      <div class="card story__panel">
+        <div class="badge" style="margin-bottom:12px">Timeline</div>
+        <div class="story__title">De brief → angles → livraison</div>
+        <div class="mut">Un flow type “Keynote” : chaque étape est courte, claire, et orientée lancement.</div>
+
+        <div class="frame" aria-hidden="true">
+          <div class="frame__glow"></div>
+          <div class="frame__label">Preview</div>
+          <div class="frame__content">
+            <div class="frame__k">Étape <span data-story-step="n">1</span> / 4</div>
+            <div class="frame__h" data-story-step="t">Brief express</div>
+            <div class="frame__p" data-story-step="d">Produit, prix, USP, objections, assets → on verrouille le scope.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="story__steps">
+      <div class="card storyStep" data-step="1" data-title="Brief express" data-desc="Produit, prix, USP, objections, assets → scope verrouillé.">
+        <h3>1) Brief (2 min)</h3>
+        <div class="mut">Tu envoies 7 lignes (ou un Drive). Je réponds avec pack + angles + planning.</div>
+      </div>
+      <div class="card storyStep" data-step="2" data-title="Angles + structure" data-desc="On propose 3–5 angles, hooks, et une structure de test. Validation rapide.">
+        <h3>2) Direction créative</h3>
+        <div class="mut">Angles d’achat + hooks + structure. On valide en asynchrone.</div>
+      </div>
+      <div class="card storyStep" data-step="3" data-title="Production" data-desc="Montage, sous-titres, exports, naming, déclinaisons selon pack.">
+        <h3>3) Production</h3>
+        <div class="mut">Créas 9:16 + cutdowns si pack. Propre et prêt Ads Manager.</div>
+      </div>
+      <div class="card storyStep" data-step="4" data-title="Livraison" data-desc="Drive organisé + recommandations de tests (ordre hooks/angles).">
+        <h3>4) Livraison (48h)</h3>
+        <div class="mut">Dossier Drive + versions + reco de lancement. Tu testes, tu apprends.</div>
+      </div>
+
+      <div class="ctaRow" style="margin-top:10px">
+        <a class="btn" href="/creas-48h/">Voir l’offre 48h</a>
+        <a class="btn2" href="/creas-48h/#brief">Copier le brief</a>
+      </div>
     </div>
   </div>
 </section>

@@ -16,7 +16,7 @@ sitemap: true
 </nav>
 
 <section class="hero offerHero" id="top">
-  <h1 class="h1">Créatifs UGC 9:16 <b>livrés en 48h</b> — des ads prêtes à tester (Meta/TikTok)</h1>
+  <h1 class="h1 maskText">Créatifs UGC 9:16 <b>livrés en 48h</b> — des ads prêtes à tester (Meta/TikTok)</h1>
   <p class="sub">Hooks agressifs, structure conversion, sous-titres et exports propres. Objectif : <b>tester vite</b> (angles + hooks + scripts) et réduire la fatigue créative.</p>
 
   <div class="ctaRow">
