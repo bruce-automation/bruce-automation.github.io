@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<section class="blog">
+  <header class="blog__head">
+    <h1 class="h1">Tag: {{ page.tag }}</h1>
+    {% if page.description %}<p class="sub">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <div class="blog__grid">
+    {% assign posts = site.tags[page.tag] %}
+    {% for post in posts %}
+      <article class="postCard">
+        <h2 class="postCard__title"><a class="link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p class="postCard__meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time></p>
+        {% if post.description %}<p class="mut">{{ post.description }}</p>{% endif %}
+        <p style="margin:14px 0 0"><a class="btn2" href="{{ post.url | relative_url }}" aria-label="Read: {{ post.title | escape }}">Read →</a></p>
+      </article>
+    {% endfor %}
+  </div>
+</section>

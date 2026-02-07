@@ -1,4 +1,4 @@
-{% assign canonical = page.canonical_url | default: (site.url | append: page.url) %}
+{% assign canonical = page.canonical_url | default: (page.url | absolute_url) %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

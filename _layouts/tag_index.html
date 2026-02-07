@@ -5,7 +5,7 @@ layout: default
 <section class="taxo">
   <header class="taxo__head">
     <h1 class="h1">{{ page.title | default: 'Tags' }}</h1>
-    <p class="sub">Navigation rapide — pas de pages par tag (build plus léger), mais des ancres directes.</p>
+    <p class="sub">Browse topics.</p>
   </header>
 
   {% assign all_tags = site.tags | sort %}
@@ -14,7 +14,7 @@ layout: default
       {% assign tag_name = tag[0] %}
       {% assign posts = tag[1] %}
       <div class="taxo__item" id="{{ tag_name | slugify }}">
-        <h2 class="h2" style="margin-bottom:10px">#{{ tag_name }} <span class="mut">({{ posts.size }})</span></h2>
+        <h2 class="h2" style="margin-bottom:10px"><a class="link" href="{{ '/tag/' | relative_url }}{{ tag_name | slugify }}/">#{{ tag_name }}</a> <span class="mut">({{ posts.size }})</span></h2>
         <ul class="taxo__posts">
           {% for p in posts %}
             <li><a class="link" href="{{ p.url | relative_url }}">{{ p.title }}</a> <span class="mut">— {{ p.date | date: "%Y-%m-%d" }}</span></li>

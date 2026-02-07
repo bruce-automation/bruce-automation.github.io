@@ -8,13 +8,23 @@ lang: en
 
 <section class="blog">
   <header class="blog__head">
-    <h1 class="h1">Articles</h1>
-    <p class="sub">Practical guides, checklists, and field notes on AI agents, automation, and systems.</p>
-    <p style="margin-top:14px">
-      <a class="btn" href="/blog/">Browse</a>
-      <span style="display:inline-block; width:10px"></span>
-      <a class="btn2" href="/start-here/">Start here</a>
-    </p>
+    <h1 class="h1">AI Agents Notes</h1>
+    <p class="sub">Practical notes on AI agents: architecture, reliability, tooling, and operations.</p>
+
+    <div class="card" style="margin-top:16px">
+      <h2 style="margin:0 0 8px">Start here</h2>
+      <p class="mut" style="margin:0 0 12px">If you’re new: follow a short reading path.</p>
+      <ol style="margin:0; padding-left: 1.1em">
+        <li><a class="link" href="/blog/guides/minimal-ai-agent-architecture/">Minimal production-ready architecture</a></li>
+        <li><a class="link" href="/blog/tutorials/ai-agent-reliability-guardrails/">Reliability guardrails + logs</a></li>
+        <li><a class="link" href="/blog/templates/seo-article-brief-checklist/">SEO article brief checklist</a></li>
+      </ol>
+      <p style="margin:14px 0 0">
+        <a class="btn" href="/start-here/">Start here</a>
+        <span style="display:inline-block; width:10px"></span>
+        <a class="btn2" href="/blog/">Browse all</a>
+      </p>
+    </div>
   </header>
 
   <div class="blog__grid">

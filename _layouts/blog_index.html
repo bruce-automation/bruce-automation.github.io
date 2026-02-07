@@ -5,7 +5,7 @@ layout: default
 <section class="blog">
   <header class="blog__head">
     <h1 class="h1">{{ page.title | default: 'Articles' }}</h1>
-    {% if page.description %}<p class="sub">{{ page.description }}</p>{% else %}<p class="sub">Guides courts, checklists et retours terrain sur la créa performance (Meta/TikTok) — sans blabla.</p>{% endif %}
+    {% if page.description %}<p class="sub">{{ page.description }}</p>{% else %}<p class="sub">Practical notes on AI agents, tools, and reliability — no fluff.</p>{% endif %}
   </header>
 
   <div class="blog__grid">
@@ -17,23 +17,23 @@ layout: default
           {% if post.categories and post.categories.size > 0 %}
             ·
             {% for c in post.categories %}
-              <a class="chip" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a>
+              <a class="chip" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
             {% endfor %}
           {% endif %}
         </p>
         {% if post.description %}<p class="mut">{{ post.description }}</p>{% endif %}
-        <p style="margin:14px 0 0"><a class="btn2" href="{{ post.url | relative_url }}">Lire →</a></p>
+        <p style="margin:14px 0 0"><a class="btn2" href="{{ post.url | relative_url }}" aria-label="Read: {{ post.title | escape }}">Read →</a></p>
       </article>
     {% endfor %}
   </div>
 
   <nav class="pagination" aria-label="Pagination">
     {% if paginator.previous_page %}
-      <a class="btn2" href="{{ paginator.previous_page_path | relative_url }}">← Plus récents</a>
+      <a class="btn2" href="{{ paginator.previous_page_path | relative_url }}">← Newer</a>
     {% endif %}
     <span class="mut">Page {{ paginator.page }} / {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a class="btn2" href="{{ paginator.next_page_path | relative_url }}">Plus anciens →</a>
+      <a class="btn2" href="{{ paginator.next_page_path | relative_url }}">Older →</a>
     {% endif %}
   </nav>
 

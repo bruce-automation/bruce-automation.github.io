@@ -15,13 +15,13 @@ layout: default
       {% if page.categories and page.categories.size > 0 %}
         ·
         {% for c in page.categories %}
-          <a class="chip" href="{{ '/categories/' | relative_url }}#{{ c | slugify }}">{{ c }}</a>
+          <a class="chip" href="{{ '/category/' | relative_url }}{{ c | slugify }}/">{{ c }}</a>
         {% endfor %}
       {% endif %}
       {% if page.tags and page.tags.size > 0 %}
         ·
         {% for t in page.tags %}
-          <a class="chip chip--tag" href="{{ '/tags/' | relative_url }}#{{ t | slugify }}">#{{ t }}</a>
+          <a class="chip chip--tag" href="{{ '/tag/' | relative_url }}{{ t | slugify }}/">#{{ t }}</a>
         {% endfor %}
       {% endif %}
     </p>
